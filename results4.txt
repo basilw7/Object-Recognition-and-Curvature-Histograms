@@ -1,0 +1,20 @@
+piece1.hst Bowl-prototype.prt 0.7195
+piece1.hst Mug-prototype.prt 0.932
+piece1.hst Pot-prototype.prt 0.9085
+piece2.hst Bowl-prototype.prt 0.7195
+piece2.hst Mug-prototype.prt 0.932
+piece2.hst Pot-prototype.prt 0.9085
+piece3.hst Bowl-prototype.prt 0.8505
+piece3.hst Mug-prototype.prt 0.9965
+piece3.hst Pot-prototype.prt 0.834
+piece4.hst Bowl-prototype.prt 0.7965
+piece4.hst Mug-prototype.prt 0.9475
+piece4.hst Pot-prototype.prt 0.858
+piece6.hst Bowl-prototype.prt 0.9435
+piece6.hst Mug-prototype.prt 0.818
+piece6.hst Pot-prototype.prt 0.736
+piece1.hst belongs to Mug-prototype.prt confidence: 0.932
+piece2.hst belongs to Mug-prototype.prt confidence: 0.932
+piece3.hst belongs to Mug-prototype.prt confidence: 0.9965
+piece4.hst belongs to Mug-prototype.prt confidence: 0.9475
+piece6.hst belongs to Bowl-prototype.prt confidence: 0.9435

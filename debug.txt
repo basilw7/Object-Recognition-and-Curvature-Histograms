@@ -1,0 +1,108 @@
+completed in 184 sec
+Correlation: Best = 0.630820134228188 Worst = -0.006
+completed in 188 sec
+Correlation: Best = 0.626102150537636 Worst = -0.008
+completed in 108 sec
+Correlation: Best = 0.776923444976076 Worst = 0.099
+completed in 49 sec
+Correlation: Best = 0.582333333333333 Worst = 0.137
+completed in 61 sec
+Correlation: Best = 0.412184426229507 Worst = 0.282
+completed in 172 sec
+Correlation: Best = 0.866504225352114 Worst = -0.142
+completed in 54 sec
+Correlation: Best = 0.749072483221478 Worst = -0.866
+completed in 54 sec
+Correlation: Best = 0.749083333333335 Worst = -0.866
+completed in 30 sec
+Correlation: Best = 0.746662679425838 Worst = -0.996
+completed in 15 sec
+Correlation: Best = 0.749107526881722 Worst = -0.896
+completed in 17 sec
+Correlation: Best = 0.936930327868851 Worst = -0.334
+completed in 52 sec
+Correlation: Best = 0.743560563380285 Worst = -1.269
+completed in 171 sec
+Correlation: Best = 0.745488590604025 Worst = -0.093
+completed in 164 sec
+Correlation: Best = 0.73910483870968 Worst = -0.093
+completed in 97 sec
+Correlation: Best = 0.926679425837318 Worst = -0.002
+completed in 39 sec
+Correlation: Best = 0.651661290322581 Worst = 0.043
+completed in 54 sec
+Correlation: Best = 0.402463114754098 Worst = 0.272
+completed in 163 sec
+Correlation: Best = 0.896385915492959 Worst = -0.246
+completed in 150 sec
+Correlation: Best = 0.913052348993288 Worst = -0.213
+completed in 150 sec
+Correlation: Best = 0.90709005376344 Worst = -0.213
+completed in 85 sec
+Correlation: Best = 0.943165071770334 Worst = -0.154
+completed in 40 sec
+Correlation: Best = 0.716672043010752 Worst = -0.099
+completed in 49 sec
+Correlation: Best = 0.438487704918033 Worst = 0.278
+completed in 144 sec
+Correlation: Best = 0.879138028169015 Worst = -0.394
+piece1.hst Bowl-prototype.prt 0.627820134228188
+piece1.hst Cup2-prototype.prt 0.316072483221478
+piece1.hst Mug-prototype.prt 0.698988590604025
+piece1.hst Pot-prototype.prt 0.806552348993288
+the above is the last piece (piece1.hst, piece2.hst)
+temp
+0.316072483221478 piece1.hst Cup2-prototype.prt
+0.627820134228188 piece1.hst Bowl-prototype.prt
+0.698988590604025 piece1.hst Mug-prototype.prt
+0.806552348993288 piece1.hst Pot-prototype.prt
+piece2.hst Bowl-prototype.prt 0.622102150537636
+piece2.hst Cup2-prototype.prt 0.316083333333335
+piece2.hst Mug-prototype.prt 0.69260483870968
+piece2.hst Pot-prototype.prt 0.80059005376344
+the above is the last piece (piece2.hst, piece3.hst)
+temp
+0.316083333333335 piece2.hst Cup2-prototype.prt
+0.622102150537636 piece2.hst Bowl-prototype.prt
+0.69260483870968 piece2.hst Mug-prototype.prt
+0.80059005376344 piece2.hst Pot-prototype.prt
+piece3.hst Bowl-prototype.prt 0.826423444976076
+piece3.hst Cup2-prototype.prt 0.248662679425838
+piece3.hst Mug-prototype.prt 0.925679425837318
+piece3.hst Pot-prototype.prt 0.866165071770334
+the above is the last piece (piece3.hst, piece4.hst)
+temp
+0.248662679425838 piece3.hst Cup2-prototype.prt
+0.826423444976076 piece3.hst Bowl-prototype.prt
+0.866165071770334 piece3.hst Pot-prototype.prt
+0.925679425837318 piece3.hst Mug-prototype.prt
+piece4.hst Bowl-prototype.prt 0.650833333333333
+piece4.hst Cup2-prototype.prt 0.301107526881722
+piece4.hst Mug-prototype.prt 0.673161290322581
+piece4.hst Pot-prototype.prt 0.667172043010752
+the above is the last piece (piece4.hst, piece5.hst)
+temp
+0.301107526881722 piece4.hst Cup2-prototype.prt
+0.650833333333333 piece4.hst Bowl-prototype.prt
+0.667172043010752 piece4.hst Pot-prototype.prt
+0.673161290322581 piece4.hst Mug-prototype.prt
+piece5.hst Bowl-prototype.prt 0.553184426229507
+piece5.hst Cup2-prototype.prt 0.769930327868851
+piece5.hst Mug-prototype.prt 0.538463114754098
+piece5.hst Pot-prototype.prt 0.577487704918033
+the above is the last piece (piece5.hst, piece6.hst)
+temp
+0.538463114754098 piece5.hst Mug-prototype.prt
+0.553184426229507 piece5.hst Bowl-prototype.prt
+0.577487704918033 piece5.hst Pot-prototype.prt
+0.769930327868851 piece5.hst Cup2-prototype.prt
+piece6.hst Bowl-prototype.prt 0.795504225352114
+piece6.hst Cup2-prototype.prt 0.109060563380285
+piece6.hst Mug-prototype.prt 0.773385915492959
+piece6.hst Pot-prototype.prt 0.682138028169015
+the above is the last piece (piece6.hst, )
+temp
+0.109060563380285 piece6.hst Cup2-prototype.prt
+0.682138028169015 piece6.hst Pot-prototype.prt
+0.773385915492959 piece6.hst Mug-prototype.prt
+0.795504225352114 piece6.hst Bowl-prototype.prt

@@ -1,0 +1,2330 @@
+Run Mode: 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0
+Worst Run Weighting = 1
+Rotation resolution = 0°
+Run Mode: 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0
+Worst Run Weighting = 1
+Rotation resolution = 0°
+compare hist auto
+ tolerance 0%
+Start time: 2008:3:10:0:29:33
+The data folder contains 32 files
+4 are prototype files
+6 are histogram files
+Opening Bowl-prototype.prt please wait...
+Run Mode: 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0
+Worst Run Weighting = 1
+Rotation resolution = 0°
+Run Mode: 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0
+Worst Run Weighting = 1
+Rotation resolution = 0°
+Run Mode: 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0
+Worst Run Weighting = 1
+Rotation resolution = 0°
+compare_hist_auto.pl start time:
+ 2008:3:10:9:21:14
+The data folder contains 33 files
+4 are prototype files
+6 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 3 sec
+Starting comparison of  Bowl-prototype.prt and piece1.hst
+completed in 237 sec
+Correlation: Best = 0.735 Worst = -0.007
+Data from piece2.hst prepared in 7 sec
+Starting comparison of  Bowl-prototype.prt and piece2.hst
+completed in 218 sec
+Correlation: Best = 0.735 Worst = -0.007
+Data from piece3.hst prepared in 9 sec
+Starting comparison of  Bowl-prototype.prt and piece3.hst
+completed in 110 sec
+Correlation: Best = 0.813 Worst = 0.099
+Data from piece4.hst prepared in 5 sec
+Starting comparison of  Bowl-prototype.prt and piece4.hst
+completed in 45 sec
+Correlation: Best = 0.754 Worst = 0.137
+Data from piece5.hst prepared in 4 sec
+Starting comparison of  Bowl-prototype.prt and piece5.hst
+completed in 73 sec
+Correlation: Best = 0.601 Worst = 0.183
+Data from piece6.hst prepared in 12 sec
+Starting comparison of  Bowl-prototype.prt and piece6.hst
+completed in 203 sec
+Correlation: Best = 1.000 Worst = -0.142
+Opening Cup2-prototype.prt please wait...
+Data from piece1.hst prepared in 6 sec
+Starting comparison of  Cup2-prototype.prt and piece1.hst
+completed in 113 sec
+Correlation: Best = 1.000 Worst = -0.593
+Data from piece2.hst prepared in 11 sec
+Starting comparison of  Cup2-prototype.prt and piece2.hst
+completed in 115 sec
+Correlation: Best = 1.000 Worst = -0.593
+Data from piece3.hst prepared in 9 sec
+Starting comparison of  Cup2-prototype.prt and piece3.hst
+completed in 64 sec
+Correlation: Best = 0.989 Worst = -0.714
+Data from piece4.hst prepared in 6 sec
+Starting comparison of  Cup2-prototype.prt and piece4.hst
+completed in 27 sec
+Correlation: Best = 1.000 Worst = -0.620
+Data from piece5.hst prepared in 3 sec
+Starting comparison of  Cup2-prototype.prt and piece5.hst
+completed in 42 sec
+Correlation: Best = 1.000 Worst = -0.334
+Data from piece6.hst prepared in 13 sec
+Starting comparison of  Cup2-prototype.prt and piece6.hst
+completed in 111 sec
+Correlation: Best = 1.000 Worst = -0.965
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 6 sec
+Starting comparison of  Mug-prototype.prt and piece1.hst
+completed in 7 sec
+Correlation: Best = 0.889 Worst = -0.092
+Data from piece2.hst prepared in 10 sec
+Starting comparison of  Mug-prototype.prt and piece2.hst
+completed in 7 sec
+Correlation: Best = 0.889 Worst = -0.092
+Data from piece3.hst prepared in 8 sec
+Starting comparison of  Mug-prototype.prt and piece3.hst
+completed in 8 sec
+Correlation: Best = 1.000 Worst = -0.001
+Data from piece4.hst prepared in 4 sec
+Starting comparison of  Mug-prototype.prt and piece4.hst
+completed in 7 sec
+Correlation: Best = 0.915 Worst = 0.043
+Data from piece5.hst prepared in 2 sec
+Starting comparison of  Mug-prototype.prt and piece5.hst
+completed in 5 sec
+Correlation: Best = 0.691 Worst = 0.181
+Data from piece6.hst prepared in 13 sec
+Starting comparison of  Mug-prototype.prt and piece6.hst
+completed in 8 sec
+Correlation: Best = 0.998 Worst = -0.246
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 6 sec
+Starting comparison of  Pot-prototype.prt and piece1.hst
+completed in 43 sec
+Correlation: Best = 0.998 Worst = -0.213
+Data from piece2.hst prepared in 10 sec
+Starting comparison of  Pot-prototype.prt and piece2.hst
+completed in 42 sec
+Correlation: Best = 0.998 Worst = -0.213
+Data from piece3.hst prepared in 8 sec
+Starting comparison of  Pot-prototype.prt and piece3.hst
+completed in 47 sec
+Correlation: Best = 0.998 Worst = -0.153
+Data from piece4.hst prepared in 4 sec
+Starting comparison of  Pot-prototype.prt and piece4.hst
+completed in 24 sec
+Correlation: Best = 0.996 Worst = -0.099
+Data from piece5.hst prepared in 3 sec
+Starting comparison of  Pot-prototype.prt and piece5.hst
+completed in 27 sec
+Correlation: Best = 0.857 Worst = 0.070
+Data from piece6.hst prepared in 13 sec
+Starting comparison of  Pot-prototype.prt and piece6.hst
+completed in 49 sec
+Correlation: Best = 1.000 Worst = -0.394
+10 files processed in 0:30:7
+
+The results are in results.txt
+Run Mode: 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0
+Worst Run Weighting = 0
+Rotation resolution = 0°
+compare hist auto
+ tolerance 0%
+Start time: 2008:3:10:10:30:56
+The data folder contains 33 files
+4 are prototype files
+6 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 2 sec
+Starting comparison of  Bowl-prototype.prt and piece1.hst
+Run Mode: 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0
+Worst Run Weighting = 0
+Rotation resolution = 0°
+Run Mode: 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0.01
+Worst Run Weighting = 0
+Rotation resolution = 0°
+compare hist auto
+ tolerance 1%
+Start time: 2008:3:10:10:34:36
+The data folder contains 33 files
+4 are prototype files
+6 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 2 sec
+Starting comparison of  Bowl-prototype.prt and piece1.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece2.hst prepared in 4 sec
+Starting comparison of  Bowl-prototype.prt and piece2.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece3.hst prepared in 7 sec
+Starting comparison of  Bowl-prototype.prt and piece3.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece4.hst prepared in 5 sec
+Starting comparison of  Bowl-prototype.prt and piece4.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece5.hst prepared in 2 sec
+Starting comparison of  Bowl-prototype.prt and piece5.hst
+completed in 0 sec
+Correlation: Best = 0 Worst = 
+Data from piece6.hst prepared in 10 sec
+Starting comparison of  Bowl-prototype.prt and piece6.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Opening Cup2-prototype.prt please wait...
+Data from piece1.hst prepared in 3 sec
+Starting comparison of  Cup2-prototype.prt and piece1.hst
+completed in 1 sec
+Correlation: Best = 0.828363636363636 Worst = -0.394
+Data from piece2.hst prepared in 9 sec
+Starting comparison of  Cup2-prototype.prt and piece2.hst
+completed in 1 sec
+Correlation: Best = 0.639151515151515 Worst = -0.485
+Data from piece3.hst prepared in 7 sec
+Starting comparison of  Cup2-prototype.prt and piece3.hst
+completed in 1 sec
+Correlation: Best = 0.918893939393939 Worst = -0.621
+Data from piece4.hst prepared in 5 sec
+Starting comparison of  Cup2-prototype.prt and piece4.hst
+completed in 1 sec
+Correlation: Best = 1.24829797979798 Worst = -0.528
+Data from piece5.hst prepared in 1 sec
+Starting comparison of  Cup2-prototype.prt and piece5.hst
+completed in 1 sec
+Correlation: Best = 1.05154966329966 Worst = -0.267
+Data from piece6.hst prepared in 9 sec
+Starting comparison of  Cup2-prototype.prt and piece6.hst
+completed in 2 sec
+Correlation: Best = 0.220935666185666 Worst = -0.886
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 4 sec
+Starting comparison of  Mug-prototype.prt and piece1.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece2.hst prepared in 8 sec
+Starting comparison of  Mug-prototype.prt and piece2.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece3.hst prepared in 7 sec
+Starting comparison of  Mug-prototype.prt and piece3.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece4.hst prepared in 5 sec
+Starting comparison of  Mug-prototype.prt and piece4.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece5.hst prepared in 1 sec
+Starting comparison of  Mug-prototype.prt and piece5.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece6.hst prepared in 11 sec
+Starting comparison of  Mug-prototype.prt and piece6.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 4 sec
+Starting comparison of  Pot-prototype.prt and piece1.hst
+completed in 2 sec
+Correlation: Best = 0.658487804878049 Worst = -0.141
+Data from piece2.hst prepared in 10 sec
+Starting comparison of  Pot-prototype.prt and piece2.hst
+completed in 3 sec
+Correlation: Best = 0.764692904656319 Worst = -0.070
+Data from piece3.hst prepared in 5 sec
+Starting comparison of  Pot-prototype.prt and piece3.hst
+completed in 2 sec
+Correlation: Best = 0.69413554534896 Worst = -0.132
+Data from piece4.hst prepared in 5 sec
+Starting comparison of  Pot-prototype.prt and piece4.hst
+completed in 1 sec
+Correlation: Best = 0.533513554534896 Worst = -0.085
+Data from piece5.hst prepared in 3 sec
+Starting comparison of  Pot-prototype.prt and piece5.hst
+completed in 1 sec
+Correlation: Best = 0.585483785151163 Worst = 0.059
+Data from piece6.hst prepared in 9 sec
+Starting comparison of  Pot-prototype.prt and piece6.hst
+completed in 2 sec
+Correlation: Best = 0.401422661157722 Worst = -0.259
+10 files processed in 0:2:45
+
+The results are in results.txt
+Run Mode: 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0.1
+Worst Run Weighting = 0
+Rotation resolution = 0°
+compare hist auto
+tolerance 10%
+Start time: 2008:3:10:10:38:30
+The data folder contains 34 files
+4 are prototype files
+6 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 2 sec
+Starting comparison of  Bowl-prototype.prt and piece1.hst
+completed in 72 sec
+Correlation: Best = 0.548784053156148 Worst = -0.006
+Data from piece2.hst prepared in 4 sec
+Starting comparison of  Bowl-prototype.prt and piece2.hst
+completed in 72 sec
+Correlation: Best = 0.545716711982308 Worst = -0.007
+Data from piece3.hst prepared in 8 sec
+Starting comparison of  Bowl-prototype.prt and piece3.hst
+completed in 42 sec
+Correlation: Best = 0.665939154687235 Worst = 0.099
+Data from piece4.hst prepared in 5 sec
+Starting comparison of  Bowl-prototype.prt and piece4.hst
+completed in 20 sec
+Correlation: Best = 0.492134763095155 Worst = 0.137
+Data from piece5.hst prepared in 2 sec
+Starting comparison of  Bowl-prototype.prt and piece5.hst
+completed in 28 sec
+Correlation: Best = 0.468872761533667 Worst = 0.183
+Data from piece6.hst prepared in 11 sec
+Starting comparison of  Bowl-prototype.prt and piece6.hst
+completed in 70 sec
+Correlation: Best = 0.603174188015606 Worst = -0.142
+Opening Cup2-prototype.prt please wait...
+Data from piece1.hst prepared in 6 sec
+Starting comparison of  Cup2-prototype.prt and piece1.hst
+completed in 40 sec
+Correlation: Best = 0.708961695617033 Worst = -0.593
+Data from piece2.hst prepared in 9 sec
+Starting comparison of  Cup2-prototype.prt and piece2.hst
+completed in 41 sec
+Correlation: Best = 0.703186699247027 Worst = -0.593
+Data from piece3.hst prepared in 6 sec
+Starting comparison of  Cup2-prototype.prt and piece3.hst
+completed in 24 sec
+Correlation: Best = 0.659743923199201 Worst = -0.714
+Data from piece4.hst prepared in 4 sec
+Starting comparison of  Cup2-prototype.prt and piece4.hst
+completed in 12 sec
+Correlation: Best = 0.853657015644046 Worst = -0.620
+Data from piece5.hst prepared in 2 sec
+Starting comparison of  Cup2-prototype.prt and piece5.hst
+completed in 17 sec
+Correlation: Best = 0.771438013293472 Worst = -0.334
+Data from piece6.hst prepared in 12 sec
+Starting comparison of  Cup2-prototype.prt and piece6.hst
+completed in 42 sec
+Correlation: Best = 0.448185078139035 Worst = -0.965
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 6 sec
+Starting comparison of  Mug-prototype.prt and piece1.hst
+completed in 64 sec
+Correlation: Best = 0.64408039416434 Worst = -0.092
+Data from piece2.hst prepared in 9 sec
+Starting comparison of  Mug-prototype.prt and piece2.hst
+completed in 65 sec
+Correlation: Best = 0.640663884664511 Worst = -0.092
+Data from piece3.hst prepared in 6 sec
+Starting comparison of  Mug-prototype.prt and piece3.hst
+completed in 39 sec
+Correlation: Best = 0.735808983479766 Worst = -0.001
+Data from piece4.hst prepared in 4 sec
+Starting comparison of  Mug-prototype.prt and piece4.hst
+completed in 19 sec
+Correlation: Best = 0.515880684251102 Worst = 0.043
+Data from piece5.hst prepared in 2 sec
+Starting comparison of  Mug-prototype.prt and piece5.hst
+completed in 24 sec
+Correlation: Best = 0.49771553178457 Worst = 0.181
+Data from piece6.hst prepared in 12 sec
+Starting comparison of  Mug-prototype.prt and piece6.hst
+completed in 61 sec
+Correlation: Best = 0.622840175025766 Worst = -0.246
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 5 sec
+Starting comparison of  Pot-prototype.prt and piece1.hst
+completed in 58 sec
+Correlation: Best = 0.728888505036253 Worst = -0.213
+Data from piece2.hst prepared in 9 sec
+Starting comparison of  Pot-prototype.prt and piece2.hst
+completed in 61 sec
+Correlation: Best = 0.721538150482575 Worst = -0.212
+Data from piece3.hst prepared in 7 sec
+Starting comparison of  Pot-prototype.prt and piece3.hst
+completed in 39 sec
+Correlation: Best = 0.759982787114446 Worst = -0.153
+Data from piece4.hst prepared in 4 sec
+Starting comparison of  Pot-prototype.prt and piece4.hst
+completed in 19 sec
+Correlation: Best = 0.568098857064173 Worst = -0.099
+Data from piece5.hst prepared in 3 sec
+Starting comparison of  Pot-prototype.prt and piece5.hst
+completed in 23 sec
+Correlation: Best = 0.556395389732081 Worst = 0.070
+Data from piece6.hst prepared in 15 sec
+Starting comparison of  Pot-prototype.prt and piece6.hst
+completed in 60 sec
+Correlation: Best = 0.622585820853726 Worst = -0.394
+10 files processed in 0:19:26
+
+The results are in results.txt
+Run Mode: 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 2
+Curvature Bias = 2
+Tolerance = 0.1
+Worst Run Weighting = 0.3
+Rotation resolution = 0°
+compare hist auto
+tolerance 10%
+Start time: 2008:3:10:11:11:1
+The data folder contains 34 files
+4 are prototype files
+6 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 3 sec
+Starting comparison of  Bowl-prototype.prt and piece1.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece2.hst prepared in 6 sec
+Starting comparison of  Bowl-prototype.prt and piece2.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece3.hst prepared in 9 sec
+Starting comparison of  Bowl-prototype.prt and piece3.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece4.hst prepared in 7 sec
+Starting comparison of  Bowl-prototype.prt and piece4.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece5.hst prepared in 2 sec
+Starting comparison of  Bowl-prototype.prt and piece5.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece6.hst prepared in 12 sec
+Starting comparison of  Bowl-prototype.prt and piece6.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Opening Cup2-prototype.prt please wait...
+Data from piece1.hst prepared in 4 sec
+Starting comparison of  Cup2-prototype.prt and piece1.hst
+completed in 2 sec
+Correlation: Best = 0.877090909090909 Worst = 0.089
+Data from piece2.hst prepared in 11 sec
+Starting comparison of  Cup2-prototype.prt and piece2.hst
+completed in 1 sec
+Correlation: Best = 0.885676767676768 Worst = 0.087
+Data from piece3.hst prepared in 8 sec
+Starting comparison of  Cup2-prototype.prt and piece3.hst
+completed in 2 sec
+Correlation: Best = 0.947709595959596 Worst = -0.018
+Data from piece4.hst prepared in 6 sec
+Starting comparison of  Cup2-prototype.prt and piece4.hst
+completed in 1 sec
+Correlation: Best = 1.28656986531987 Worst = 0.054
+Data from piece5.hst prepared in 2 sec
+Starting comparison of  Cup2-prototype.prt and piece5.hst
+completed in 1 sec
+Correlation: Best = 1.13176164421998 Worst = 0.194
+Data from piece6.hst prepared in 13 sec
+Starting comparison of  Cup2-prototype.prt and piece6.hst
+completed in 1 sec
+Correlation: Best = 0.70010880631714 Worst = -0.240
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 6 sec
+Starting comparison of  Mug-prototype.prt and piece1.hst
+completed in 2 sec
+Correlation: Best = 0 Worst = 
+Data from piece2.hst prepared in 12 sec
+Starting comparison of  Mug-prototype.prt and piece2.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece3.hst prepared in 9 sec
+Starting comparison of  Mug-prototype.prt and piece3.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece4.hst prepared in 6 sec
+Starting comparison of  Mug-prototype.prt and piece4.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece5.hst prepared in 2 sec
+Starting comparison of  Mug-prototype.prt and piece5.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Data from piece6.hst prepared in 13 sec
+Starting comparison of  Mug-prototype.prt and piece6.hst
+completed in 1 sec
+Correlation: Best = 0 Worst = 
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 5 sec
+Starting comparison of  Pot-prototype.prt and piece1.hst
+completed in 2 sec
+Correlation: Best = 0.810268292682927 Worst = 0.059
+Data from piece2.hst prepared in 12 sec
+Starting comparison of  Pot-prototype.prt and piece2.hst
+completed in 2 sec
+Correlation: Best = 0.861324279379158 Worst = 0.206
+Data from piece3.hst prepared in 7 sec
+Starting comparison of  Pot-prototype.prt and piece3.hst
+completed in 2 sec
+Correlation: Best = 0.892007720937599 Worst = 0.131
+Data from piece4.hst prepared in 7 sec
+Starting comparison of  Pot-prototype.prt and piece4.hst
+completed in 1 sec
+Correlation: Best = 0.62900077209376 Worst = 0.192
+Data from piece5.hst prepared in 4 sec
+Starting comparison of  Pot-prototype.prt and piece5.hst
+completed in 1 sec
+Correlation: Best = 0.732333359069792 Worst = 0.248
+Data from piece6.hst prepared in 11 sec
+Starting comparison of  Pot-prototype.prt and piece6.hst
+completed in 2 sec
+Correlation: Best = 0.697726496386405 Worst = 0.040
+10 files processed in 0:3:28
+
+The results are in results.txt
+Run Mode: 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 10
+Curvature Bias = 2
+Tolerance = 0.1
+Worst Run Weighting = 0.3
+Rotation resolution = 0°
+Run Mode: 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 10
+Curvature Bias = 2
+Tolerance = 0.1
+Worst Run Weighting = 0.3
+Rotation resolution = 0°
+Run Mode: 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 10
+Curvature Bias = 2
+Tolerance = 0.1
+Worst Run Weighting = 0.3
+Rotation resolution = 0°
+compare hist auto
+tolerance 10%
+Start time: 2008:3:10:11:20:44
+The data folder contains 34 files
+4 are prototype files
+6 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 3 sec
+Starting comparison of  Bowl-prototype.prt and piece1.hst
+completed in 96 sec
+Correlation: Best = 0.750 Worst = 0.146
+Data from piece2.hst prepared in 5 sec
+Starting comparison of  Bowl-prototype.prt and piece2.hst
+completed in 96 sec
+Correlation: Best = 0.748 Worst = 0.146
+Data from piece3.hst prepared in 10 sec
+Starting comparison of  Bowl-prototype.prt and piece3.hst
+completed in 57 sec
+Correlation: Best = 0.836 Worst = 0.262
+Data from piece4.hst prepared in 6 sec
+Starting comparison of  Bowl-prototype.prt and piece4.hst
+completed in 26 sec
+Correlation: Best = 0.756 Worst = 0.282
+Data from piece5.hst prepared in 4 sec
+Starting comparison of  Bowl-prototype.prt and piece5.hst
+completed in 37 sec
+Correlation: Best = 0.588 Worst = 0.313
+Data from piece6.hst prepared in 14 sec
+Starting comparison of  Bowl-prototype.prt and piece6.hst
+completed in 92 sec
+Correlation: Best = 1.000 Worst = 0.083
+Opening Cup2-prototype.prt please wait...
+Data from piece1.hst prepared in 6 sec
+Starting comparison of  Cup2-prototype.prt and piece1.hst
+completed in 55 sec
+Correlation: Best = 1.000 Worst = -0.146
+Data from piece2.hst prepared in 12 sec
+Starting comparison of  Cup2-prototype.prt and piece2.hst
+completed in 55 sec
+Correlation: Best = 0.998 Worst = -0.146
+Data from piece3.hst prepared in 8 sec
+Starting comparison of  Cup2-prototype.prt and piece3.hst
+completed in 32 sec
+Correlation: Best = 0.993 Worst = -0.225
+Data from piece4.hst prepared in 6 sec
+Starting comparison of  Cup2-prototype.prt and piece4.hst
+completed in 15 sec
+Correlation: Best = 1.000 Worst = -0.164
+Data from piece5.hst prepared in 3 sec
+Starting comparison of  Cup2-prototype.prt and piece5.hst
+completed in 22 sec
+Correlation: Best = 0.999 Worst = 0.014
+Data from piece6.hst prepared in 15 sec
+Starting comparison of  Cup2-prototype.prt and piece6.hst
+completed in 52 sec
+Correlation: Best = 0.998 Worst = -0.396
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 7 sec
+Starting comparison of  Mug-prototype.prt and piece1.hst
+completed in 78 sec
+Correlation: Best = 0.908 Worst = 0.106
+Data from piece2.hst prepared in 11 sec
+Starting comparison of  Mug-prototype.prt and piece2.hst
+completed in 78 sec
+Correlation: Best = 0.908 Worst = 0.106
+Data from piece3.hst prepared in 8 sec
+Starting comparison of  Mug-prototype.prt and piece3.hst
+completed in 48 sec
+Correlation: Best = 0.996 Worst = 0.207
+Data from piece4.hst prepared in 6 sec
+Starting comparison of  Mug-prototype.prt and piece4.hst
+completed in 22 sec
+Correlation: Best = 0.931 Worst = 0.231
+Data from piece5.hst prepared in 2 sec
+Starting comparison of  Mug-prototype.prt and piece5.hst
+completed in 31 sec
+Correlation: Best = 0.696 Worst = 0.305
+Data from piece6.hst prepared in 14 sec
+Starting comparison of  Mug-prototype.prt and piece6.hst
+completed in 77 sec
+Correlation: Best = 1.000 Worst = 0.037
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 7 sec
+Starting comparison of  Pot-prototype.prt and piece1.hst
+completed in 68 sec
+Correlation: Best = 1.000 Worst = 0.056
+Data from piece2.hst prepared in 11 sec
+Starting comparison of  Pot-prototype.prt and piece2.hst
+completed in 69 sec
+Correlation: Best = 0.999 Worst = 0.055
+Data from piece3.hst prepared in 8 sec
+Starting comparison of  Pot-prototype.prt and piece3.hst
+completed in 41 sec
+Correlation: Best = 0.995 Worst = 0.121
+Data from piece4.hst prepared in 7 sec
+Starting comparison of  Pot-prototype.prt and piece4.hst
+completed in 20 sec
+Correlation: Best = 0.999 Worst = 0.152
+Data from piece5.hst prepared in 3 sec
+Starting comparison of  Pot-prototype.prt and piece5.hst
+completed in 29 sec
+Correlation: Best = 0.886 Worst = 0.245
+Data from piece6.hst prepared in 15 sec
+Starting comparison of  Pot-prototype.prt and piece6.hst
+completed in 71 sec
+Correlation: Best = 0.999 Worst = -0.021
+10 files processed in 0:24:18
+
+The results are in results.txt
+Run Mode: 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 10
+Curvature Bias = 2
+Tolerance = 0.1
+Remove negative fits = 1
+Worst Run Weighting = -0.3
+Rotation resolution = 0°
+compare hist auto
+tolerance 10%
+Start time: 2008:3:10:11:51:6
+The data folder contains 34 files
+4 are prototype files
+6 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 3 sec
+Starting comparison of  Bowl-prototype.prt and piece1.hst
+completed in 93 sec
+Correlation: Best = 0.750 Worst = 0.146
+Data from piece2.hst prepared in 4 sec
+Starting comparison of  Bowl-prototype.prt and piece2.hst
+completed in 93 sec
+Correlation: Best = 0.748 Worst = 0.146
+Data from piece3.hst prepared in 10 sec
+Starting comparison of  Bowl-prototype.prt and piece3.hst
+completed in 55 sec
+Correlation: Best = 0.836 Worst = 0.262
+Data from piece4.hst prepared in 6 sec
+Starting comparison of  Bowl-prototype.prt and piece4.hst
+completed in 24 sec
+Correlation: Best = 0.756 Worst = 0.282
+Data from piece5.hst prepared in 4 sec
+Starting comparison of  Bowl-prototype.prt and piece5.hst
+completed in 36 sec
+Correlation: Best = 0.588 Worst = 0.313
+Data from piece6.hst prepared in 12 sec
+Starting comparison of  Bowl-prototype.prt and piece6.hst
+completed in 89 sec
+Correlation: Best = 1.000 Worst = 0.083
+Opening Cup2-prototype.prt please wait...
+Data from piece1.hst prepared in 8 sec
+Starting comparison of  Cup2-prototype.prt and piece1.hst
+completed in 52 sec
+Correlation: Best = 1.000 Worst = 0.000
+Data from piece2.hst prepared in 11 sec
+Starting comparison of  Cup2-prototype.prt and piece2.hst
+completed in 53 sec
+Correlation: Best = 0.998 Worst = 0.000
+Data from piece3.hst prepared in 9 sec
+Starting comparison of  Cup2-prototype.prt and piece3.hst
+completed in 31 sec
+Correlation: Best = 0.993 Worst = -0.000
+Data from piece4.hst prepared in 7 sec
+Starting comparison of  Cup2-prototype.prt and piece4.hst
+completed in 15 sec
+Correlation: Best = 1.000 Worst = 0.002
+Data from piece5.hst prepared in 3 sec
+Starting comparison of  Cup2-prototype.prt and piece5.hst
+completed in 20 sec
+Correlation: Best = 0.999 Worst = 0.014
+Data from piece6.hst prepared in 15 sec
+Starting comparison of  Cup2-prototype.prt and piece6.hst
+completed in 50 sec
+Correlation: Best = 0.998 Worst = 0.000
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 7 sec
+Starting comparison of  Mug-prototype.prt and piece1.hst
+completed in 84 sec
+Correlation: Best = 0.908 Worst = 0.106
+Data from piece2.hst prepared in 11 sec
+Starting comparison of  Mug-prototype.prt and piece2.hst
+completed in 84 sec
+Correlation: Best = 0.908 Worst = 0.106
+Data from piece3.hst prepared in 9 sec
+Starting comparison of  Mug-prototype.prt and piece3.hst
+completed in 50 sec
+Correlation: Best = 0.996 Worst = 0.207
+Data from piece4.hst prepared in 7 sec
+Starting comparison of  Mug-prototype.prt and piece4.hst
+completed in 23 sec
+Correlation: Best = 0.931 Worst = 0.231
+Data from piece5.hst prepared in 3 sec
+Starting comparison of  Mug-prototype.prt and piece5.hst
+completed in 33 sec
+Correlation: Best = 0.696 Worst = 0.305
+Data from piece6.hst prepared in 16 sec
+Starting comparison of  Mug-prototype.prt and piece6.hst
+completed in 80 sec
+Correlation: Best = 1.000 Worst = 0.037
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 8 sec
+Starting comparison of  Pot-prototype.prt and piece1.hst
+completed in 71 sec
+Correlation: Best = 1.000 Worst = 0.056
+Data from piece2.hst prepared in 12 sec
+Starting comparison of  Pot-prototype.prt and piece2.hst
+completed in 68 sec
+Correlation: Best = 0.999 Worst = 0.055
+Data from piece3.hst prepared in 10 sec
+Starting comparison of  Pot-prototype.prt and piece3.hst
+completed in 40 sec
+Correlation: Best = 0.995 Worst = 0.121
+Data from piece4.hst prepared in 7 sec
+Starting comparison of  Pot-prototype.prt and piece4.hst
+completed in 19 sec
+Correlation: Best = 0.999 Worst = 0.152
+Data from piece5.hst prepared in 4 sec
+Starting comparison of  Pot-prototype.prt and piece5.hst
+completed in 27 sec
+Correlation: Best = 0.886 Worst = 0.245
+Data from piece6.hst prepared in 16 sec
+Starting comparison of  Pot-prototype.prt and piece6.hst
+completed in 68 sec
+Correlation: Best = 0.999 Worst = 0.001
+10 files processed in 0:24:20
+
+The results are in results.txt
+Run Mode: 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 10
+Curvature Bias = 2
+Tolerance = 0.1
+Remove negative fits = 1
+Worst Run Weighting = -1
+Rotation resolution = 2.5°
+compare hist auto
+tolerance 10%
+Start time: 2008:3:10:12:24:38
+The data folder contains 34 files
+4 are prototype files
+6 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 3 sec
+Starting comparison of  Bowl-prototype.prt and piece1.hst
+completed in 86 sec
+Correlation: Best = 0.750 Worst = 0.146
+Data from piece2.hst prepared in 5 sec
+Starting comparison of  Bowl-prototype.prt and piece2.hst
+completed in 86 sec
+Correlation: Best = 0.748 Worst = 0.146
+Data from piece3.hst prepared in 10 sec
+Starting comparison of  Bowl-prototype.prt and piece3.hst
+completed in 52 sec
+Correlation: Best = 0.836 Worst = 0.262
+Data from piece4.hst prepared in 5 sec
+Starting comparison of  Bowl-prototype.prt and piece4.hst
+completed in 24 sec
+Correlation: Best = 0.756 Worst = 0.282
+Data from piece5.hst prepared in 4 sec
+Starting comparison of  Bowl-prototype.prt and piece5.hst
+completed in 34 sec
+Correlation: Best = 0.588 Worst = 0.313
+Data from piece6.hst prepared in 12 sec
+Starting comparison of  Bowl-prototype.prt and piece6.hst
+completed in 83 sec
+Correlation: Best = 1.000 Worst = 0.083
+Opening Cup2-prototype.prt please wait...
+Data from piece1.hst prepared in 6 sec
+Starting comparison of  Cup2-prototype.prt and piece1.hst
+completed in 48 sec
+Correlation: Best = 1.000 Worst = 0.000
+Data from piece2.hst prepared in 10 sec
+Starting comparison of  Cup2-prototype.prt and piece2.hst
+completed in 48 sec
+Correlation: Best = 0.998 Worst = 0.000
+Data from piece3.hst prepared in 7 sec
+Starting comparison of  Cup2-prototype.prt and piece3.hst
+completed in 29 sec
+Correlation: Best = 0.993 Worst = -0.000
+Data from piece4.hst prepared in 5 sec
+Starting comparison of  Cup2-prototype.prt and piece4.hst
+completed in 13 sec
+Correlation: Best = 1.000 Worst = 0.002
+Data from piece5.hst prepared in 3 sec
+Starting comparison of  Cup2-prototype.prt and piece5.hst
+completed in 20 sec
+Correlation: Best = 0.999 Worst = 0.014
+Data from piece6.hst prepared in 12 sec
+Starting comparison of  Cup2-prototype.prt and piece6.hst
+completed in 47 sec
+Correlation: Best = 0.998 Worst = 0.000
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 6 sec
+Starting comparison of  Mug-prototype.prt and piece1.hst
+completed in 73 sec
+Correlation: Best = 0.908 Worst = 0.106
+Data from piece2.hst prepared in 10 sec
+Starting comparison of  Mug-prototype.prt and piece2.hst
+completed in 75 sec
+Correlation: Best = 0.908 Worst = 0.106
+Data from piece3.hst prepared in 10 sec
+Starting comparison of  Mug-prototype.prt and piece3.hst
+completed in 47 sec
+Correlation: Best = 0.996 Worst = 0.207
+Data from piece4.hst prepared in 7 sec
+Starting comparison of  Mug-prototype.prt and piece4.hst
+completed in 21 sec
+Correlation: Best = 0.931 Worst = 0.231
+Data from piece5.hst prepared in 5 sec
+Starting comparison of  Mug-prototype.prt and piece5.hst
+completed in 31 sec
+Correlation: Best = 0.696 Worst = 0.305
+Data from piece6.hst prepared in 16 sec
+Starting comparison of  Mug-prototype.prt and piece6.hst
+completed in 71 sec
+Correlation: Best = 1.000 Worst = 0.037
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 9 sec
+Starting comparison of  Pot-prototype.prt and piece1.hst
+completed in 68 sec
+Correlation: Best = 1.000 Worst = 0.056
+Data from piece2.hst prepared in 14 sec
+Starting comparison of  Pot-prototype.prt and piece2.hst
+completed in 76 sec
+Correlation: Best = 0.999 Worst = 0.055
+Data from piece3.hst prepared in 9 sec
+Starting comparison of  Pot-prototype.prt and piece3.hst
+completed in 45 sec
+Correlation: Best = 0.995 Worst = 0.121
+Data from piece4.hst prepared in 6 sec
+Starting comparison of  Pot-prototype.prt and piece4.hst
+completed in 23 sec
+Correlation: Best = 0.999 Worst = 0.152
+Data from piece5.hst prepared in 4 sec
+Starting comparison of  Pot-prototype.prt and piece5.hst
+completed in 30 sec
+Correlation: Best = 0.886 Worst = 0.245
+Data from piece6.hst prepared in 16 sec
+Starting comparison of  Pot-prototype.prt and piece6.hst
+completed in 72 sec
+Correlation: Best = 0.999 Worst = 0.001
+10 files processed in 0:23:24
+
+The results are in results.txt
+Run Mode: 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0.1
+Remove negative fits = 0
+Worst Run Weighting = -1
+Rotation resolution = 2.5°
+Run Mode: 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0.1
+Remove negative fits = 0
+Worst Run Weighting = 1
+Rotation resolution = 2.5°
+Run Mode: 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 2
+Tolerance = 0.1
+Remove negative fits = 0
+Worst Run Weighting = 0
+Rotation resolution = 2.5°
+compare hist auto
+tolerance 10%
+Start time: 2008:3:10:13:3:18
+The data folder contains 34 files
+3 are prototype files
+5 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 4 sec
+Starting comparison of  Bowl-prototype.prt and piece1.hst
+completed in 103 sec
+Correlation: Best = 0.750 Worst = 0.146
+Data from piece2.hst prepared in 7 sec
+Starting comparison of  Bowl-prototype.prt and piece2.hst
+completed in 101 sec
+Correlation: Best = 0.748 Worst = 0.146
+Data from piece3.hst prepared in 15 sec
+Starting comparison of  Bowl-prototype.prt and piece3.hst
+completed in 62 sec
+Correlation: Best = 0.836 Worst = 0.262
+Data from piece4.hst prepared in 8 sec
+Starting comparison of  Bowl-prototype.prt and piece4.hst
+completed in 28 sec
+Correlation: Best = 0.756 Worst = 0.282
+Data from piece6.hst prepared in 14 sec
+Starting comparison of  Bowl-prototype.prt and piece6.hst
+completed in 98 sec
+Correlation: Best = 1.000 Worst = 0.083
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 10 sec
+Starting comparison of  Mug-prototype.prt and piece1.hst
+completed in 91 sec
+Correlation: Best = 0.908 Worst = 0.106
+Data from piece2.hst prepared in 13 sec
+Starting comparison of  Mug-prototype.prt and piece2.hst
+completed in 92 sec
+Correlation: Best = 0.908 Worst = 0.106
+Data from piece3.hst prepared in 9 sec
+Starting comparison of  Mug-prototype.prt and piece3.hst
+completed in 49 sec
+Correlation: Best = 0.996 Worst = 0.207
+Data from piece4.hst prepared in 7 sec
+Starting comparison of  Mug-prototype.prt and piece4.hst
+completed in 25 sec
+Correlation: Best = 0.931 Worst = 0.231
+Data from piece6.hst prepared in 16 sec
+Starting comparison of  Mug-prototype.prt and piece6.hst
+completed in 86 sec
+Correlation: Best = 1.000 Worst = 0.037
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 10 sec
+Starting comparison of  Pot-prototype.prt and piece1.hst
+completed in 77 sec
+Correlation: Best = 1.000 Worst = 0.056
+Data from piece2.hst prepared in 11 sec
+Starting comparison of  Pot-prototype.prt and piece2.hst
+completed in 77 sec
+Correlation: Best = 0.999 Worst = 0.055
+Data from piece3.hst prepared in 9 sec
+Starting comparison of  Pot-prototype.prt and piece3.hst
+completed in 43 sec
+Correlation: Best = 0.995 Worst = 0.121
+Data from piece4.hst prepared in 7 sec
+Starting comparison of  Pot-prototype.prt and piece4.hst
+completed in 22 sec
+Correlation: Best = 0.999 Worst = 0.152
+Data from piece6.hst prepared in 15 sec
+Starting comparison of  Pot-prototype.prt and piece6.hst
+completed in 74 sec
+Correlation: Best = 0.999 Worst = -0.021
+8 files processed in 0:19:44
+
+The results are in results.txt
+Run Mode: 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0.1
+Remove negative fits = 0
+Worst Run Weighting = 0
+Rotation resolution = 2.5°
+compare hist auto
+tolerance 10%
+Start time: 2008:3:10:13:49:54
+The data folder contains 34 files
+3 are prototype files
+5 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 4 sec
+Starting comparison of  Bowl-prototype.prt and piece1.hst
+completed in 94 sec
+Correlation: Best = 0.856 Worst = -4.626
+Data from piece2.hst prepared in 5 sec
+Starting comparison of  Bowl-prototype.prt and piece2.hst
+completed in 95 sec
+Correlation: Best = 0.856 Worst = -4.625
+Data from piece3.hst prepared in 11 sec
+Starting comparison of  Bowl-prototype.prt and piece3.hst
+completed in 56 sec
+Correlation: Best = 0.873 Worst = -4.869
+Data from piece4.hst prepared in 6 sec
+Starting comparison of  Bowl-prototype.prt and piece4.hst
+completed in 27 sec
+Correlation: Best = 0.867 Worst = -4.441
+Data from piece6.hst prepared in 12 sec
+Starting comparison of  Bowl-prototype.prt and piece6.hst
+completed in 88 sec
+Correlation: Best = 0.994 Worst = -5.731
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 8 sec
+Starting comparison of  Mug-prototype.prt and piece1.hst
+completed in 84 sec
+Correlation: Best = 0.941 Worst = -5.229
+Data from piece2.hst prepared in 10 sec
+Starting comparison of  Mug-prototype.prt and piece2.hst
+completed in 86 sec
+Correlation: Best = 0.941 Worst = -5.228
+Data from piece3.hst prepared in 7 sec
+Starting comparison of  Mug-prototype.prt and piece3.hst
+completed in 51 sec
+Correlation: Best = 0.967 Worst = -5.440
+Data from piece4.hst prepared in 6 sec
+Starting comparison of  Mug-prototype.prt and piece4.hst
+completed in 24 sec
+Correlation: Best = 0.956 Worst = -5.046
+Data from piece6.hst prepared in 13 sec
+Starting comparison of  Mug-prototype.prt and piece6.hst
+completed in 81 sec
+Correlation: Best = 0.994 Worst = -6.456
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 10 sec
+Starting comparison of  Pot-prototype.prt and piece1.hst
+completed in 72 sec
+Correlation: Best = 1.000 Worst = -6.080
+Data from piece2.hst prepared in 13 sec
+Starting comparison of  Pot-prototype.prt and piece2.hst
+completed in 69 sec
+Correlation: Best = 0.999 Worst = -6.080
+Data from piece3.hst prepared in 11 sec
+Starting comparison of  Pot-prototype.prt and piece3.hst
+completed in 43 sec
+Correlation: Best = 0.967 Worst = -6.313
+Data from piece4.hst prepared in 10 sec
+Starting comparison of  Pot-prototype.prt and piece4.hst
+completed in 18 sec
+Correlation: Best = 1.000 Worst = -5.904
+Data from piece6.hst prepared in 17 sec
+Starting comparison of  Pot-prototype.prt and piece6.hst
+completed in 71 sec
+Correlation: Best = 0.993 Worst = -7.479
+8 files processed in 0:18:25
+
+The results are in results.txt
+Run Mode: 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0.01
+Remove negative fits = 0
+Worst Run Weighting = 0
+Rotation resolution = 2.5°
+compare hist auto
+tolerance 1%
+Start time: 2008:3:10:14:13:39
+The data folder contains 34 files
+3 are prototype files
+5 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 3 sec
+Starting comparison of  Bowl-prototype.prt and piece1.hst
+completed in 95 sec
+Correlation: Best = 0.856 Worst = -4.626
+Data from piece2.hst prepared in 5 sec
+Starting comparison of  Bowl-prototype.prt and piece2.hst
+completed in 95 sec
+Correlation: Best = 0.856 Worst = -4.625
+Data from piece3.hst prepared in 12 sec
+Starting comparison of  Bowl-prototype.prt and piece3.hst
+completed in 57 sec
+Correlation: Best = 0.873 Worst = -4.869
+Data from piece4.hst prepared in 6 sec
+Starting comparison of  Bowl-prototype.prt and piece4.hst
+completed in 29 sec
+Correlation: Best = 0.867 Worst = -4.441
+Data from piece6.hst prepared in 12 sec
+Starting comparison of  Bowl-prototype.prt and piece6.hst
+completed in 95 sec
+Correlation: Best = 0.994 Worst = -5.731
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 8 sec
+Starting comparison of  Mug-prototype.prt and piece1.hst
+completed in 87 sec
+Correlation: Best = 0.941 Worst = -5.229
+Data from piece2.hst prepared in 11 sec
+Starting comparison of  Mug-prototype.prt and piece2.hst
+completed in 90 sec
+Correlation: Best = 0.941 Worst = -5.228
+Data from piece3.hst prepared in 10 sec
+Starting comparison of  Mug-prototype.prt and piece3.hst
+completed in 50 sec
+Correlation: Best = 0.967 Worst = -5.440
+Data from piece4.hst prepared in 8 sec
+Starting comparison of  Mug-prototype.prt and piece4.hst
+completed in 23 sec
+Correlation: Best = 0.956 Worst = -5.046
+Data from piece6.hst prepared in 15 sec
+Starting comparison of  Mug-prototype.prt and piece6.hst
+completed in 83 sec
+Correlation: Best = 0.994 Worst = -6.456
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 8 sec
+Starting comparison of  Pot-prototype.prt and piece1.hst
+completed in 74 sec
+Correlation: Best = 1.000 Worst = -6.080
+Data from piece2.hst prepared in 11 sec
+Starting comparison of  Pot-prototype.prt and piece2.hst
+completed in 68 sec
+Correlation: Best = 0.999 Worst = -6.080
+Data from piece3.hst prepared in 9 sec
+Starting comparison of  Pot-prototype.prt and piece3.hst
+completed in 55 sec
+Correlation: Best = 0.967 Worst = -6.313
+Data from piece4.hst prepared in 7 sec
+Starting comparison of  Pot-prototype.prt and piece4.hst
+completed in 20 sec
+Correlation: Best = 1.000 Worst = -5.904
+Data from piece6.hst prepared in 14 sec
+Starting comparison of  Pot-prototype.prt and piece6.hst
+completed in 68 sec
+Correlation: Best = 0.993 Worst = -7.479
+8 files processed in 0:18:48
+
+The results are in results.txt
+Run Mode: 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 1
+Rotation resolution = 2.5°
+compare hist auto
+tolerance 0%
+Start time: 2008:3:10:14:32:58
+The data folder contains 34 files
+3 are prototype files
+5 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 4 sec
+Starting comparison of  Bowl-prototype.prt and piece1.hst
+completed in 89 sec
+Correlation: Best = 0.856 Worst = -4.626
+Data from piece2.hst prepared in 5 sec
+Starting comparison of  Bowl-prototype.prt and piece2.hst
+completed in 88 sec
+Correlation: Best = 0.856 Worst = -4.625
+Data from piece3.hst prepared in 10 sec
+Starting comparison of  Bowl-prototype.prt and piece3.hst
+completed in 52 sec
+Correlation: Best = 0.873 Worst = -4.869
+Data from piece4.hst prepared in 6 sec
+Starting comparison of  Bowl-prototype.prt and piece4.hst
+completed in 25 sec
+Correlation: Best = 0.867 Worst = -4.441
+Data from piece6.hst prepared in 12 sec
+Starting comparison of  Bowl-prototype.prt and piece6.hst
+completed in 83 sec
+Correlation: Best = 0.994 Worst = -5.731
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 6 sec
+Starting comparison of  Mug-prototype.prt and piece1.hst
+completed in 78 sec
+Correlation: Best = 0.941 Worst = -5.229
+Data from piece2.hst prepared in 10 sec
+Starting comparison of  Mug-prototype.prt and piece2.hst
+completed in 79 sec
+Correlation: Best = 0.941 Worst = -5.228
+Data from piece3.hst prepared in 6 sec
+Starting comparison of  Mug-prototype.prt and piece3.hst
+completed in 47 sec
+Correlation: Best = 0.967 Worst = -5.440
+Data from piece4.hst prepared in 6 sec
+Starting comparison of  Mug-prototype.prt and piece4.hst
+completed in 22 sec
+Correlation: Best = 0.956 Worst = -5.046
+Data from piece6.hst prepared in 12 sec
+Starting comparison of  Mug-prototype.prt and piece6.hst
+completed in 72 sec
+Correlation: Best = 0.994 Worst = -6.456
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 7 sec
+Starting comparison of  Pot-prototype.prt and piece1.hst
+completed in 65 sec
+Correlation: Best = 1.000 Worst = -6.080
+Data from piece2.hst prepared in 11 sec
+Starting comparison of  Pot-prototype.prt and piece2.hst
+completed in 65 sec
+Correlation: Best = 0.999 Worst = -6.080
+Data from piece3.hst prepared in 8 sec
+Starting comparison of  Pot-prototype.prt and piece3.hst
+completed in 40 sec
+Correlation: Best = 0.967 Worst = -6.313
+Data from piece4.hst prepared in 7 sec
+Starting comparison of  Pot-prototype.prt and piece4.hst
+completed in 18 sec
+Correlation: Best = 1.000 Worst = -5.904
+Data from piece6.hst prepared in 13 sec
+Starting comparison of  Pot-prototype.prt and piece6.hst
+completed in 64 sec
+Correlation: Best = 0.993 Worst = -7.479
+8 files processed in 0:16:51
+
+The results are in results.txt
+Run Mode: 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 1
+Rotation resolution = 2.5°
+Run Mode: 0 0 1 0
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 1
+Rotation resolution = 2.5°
+Run Mode: 0 0 1 0
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 1
+Rotation resolution = 2.5°
+Run Mode: 0 0 1 0
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 1
+Rotation resolution = 2.5°
+Run Mode: 0 0 1 0
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 1
+Rotation resolution = 2.5°
+Performing histogram interpolation
+Start time: 2008:3:10:16:58:9
+Run Mode: 0 0 1 0
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 1
+Rotation resolution = 2.5°
+Run Mode: 0 0 1 0
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 1
+Rotation resolution = 2.5°
+Performing histogram interpolation
+Start time: 2008:3:10:17:8:26
+Performing interpolation on Bowl-prototype.prt please wait...Completed
+Interpolated data written out to Bowl-prototype.prt 0 sec
+Run Mode: 0 0 1 0
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 1
+Rotation resolution = 2.5°
+Performing histogram interpolation
+Start time: 2008:3:10:17:11:9
+Performing interpolation on Bowl-prototype.prt please wait...Completed
+Interpolated data written out to Bowl-prototype.prt in 0 sec
+Run Mode: 0 0 1 0
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 1
+Rotation resolution = 2.5°
+Performing histogram interpolation
+Start time: 2008:3:10:17:13:23
+Performing interpolation on Bowl-prototype.prt please wait...Completed
+Interpolated data written out to Bowl-prototype.prt in 0 sec
+Run Mode: 0 0 1 0
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 1
+Rotation resolution = 2.5°
+Performing histogram interpolation
+Start time: 2008:3:10:17:17:34
+Performing interpolation on Bowl-prototype.prt please wait...Completed
+Interpolated data written out to Bowl-prototype.prt in 0 sec
+Performing interpolation on Mug-prototype.prt please wait...Completed
+Interpolated data written out to Mug-prototype.prt in 0 sec
+Performing interpolation on piece1.hst please wait...Completed
+Interpolated data written out to piece1.hst in 5 sec
+Performing interpolation on piece2.hst please wait...Completed
+Interpolated data written out to piece2.hst in 9 sec
+Performing interpolation on piece3.hst please wait...Completed
+Interpolated data written out to piece3.hst in 11 sec
+Performing interpolation on piece4.hst please wait...Completed
+Interpolated data written out to piece4.hst in 7 sec
+Performing interpolation on piece6.hst please wait...Completed
+Interpolated data written out to piece6.hst in 13 sec
+Performing interpolation on Pot-prototype.prt please wait...Completed
+Interpolated data written out to Pot-prototype.prt in 0 sec
+Run Mode: 0 0 1 0
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 1
+Rotation resolution = 2.5°
+Performing histogram interpolation
+Start time: 2008:3:10:17:26:4
+Performing interpolation on Bowl-prototype.prt please wait...Completed
+Interpolated data written out to Bowl-prototype.prt in 1 sec
+Performing interpolation on Mug-prototype.prt please wait...Completed
+Interpolated data written out to Mug-prototype.prt in 0 sec
+Performing interpolation on piece1.hst please wait...Completed
+Interpolated data written out to piece1.hst in 6 sec
+Performing interpolation on piece2.hst please wait...Completed
+Interpolated data written out to piece2.hst in 9 sec
+Performing interpolation on piece3.hst please wait...Completed
+Interpolated data written out to piece3.hst in 10 sec
+Performing interpolation on piece4.hst please wait...Completed
+Interpolated data written out to piece4.hst in 6 sec
+Performing interpolation on piece6.hst please wait...Completed
+Interpolated data written out to piece6.hst in 10 sec
+Performing interpolation on Pot-prototype.prt please wait...Completed
+Interpolated data written out to Pot-prototype.prt in 0 sec
+Run Mode: 0 0 1 1
+Offset Switch = 1
+Curvature Ceiling = 1.5
+Curvature Bias = 2
+Tolerance = 0.1
+Remove negative fits = 0
+Worst Run Weighting = 0.5
+Rotation resolution = 2.5°
+Performing histogram interpolation
+Start time: 2008:3:10:17:32:37
+Performing interpolation on Bowl-prototype.prt
+please wait...	Completed in 0 sec
+Interpolated data written out to Bowl-prototype.prt
+Performing interpolation on Mug-prototype.prt
+please wait...	Completed in 0 sec
+Interpolated data written out to Mug-prototype.prt
+Performing interpolation on piece1.hst
+please wait...	Completed in 6 sec
+Interpolated data written out to piece1.hst
+Performing interpolation on piece2.hst
+please wait...	Completed in 9 sec
+Interpolated data written out to piece2.hst
+Performing interpolation on piece3.hst
+please wait...	Completed in 10 sec
+Interpolated data written out to piece3.hst
+Performing interpolation on piece4.hst
+please wait...	Completed in 8 sec
+Interpolated data written out to piece4.hst
+Performing interpolation on piece6.hst
+please wait...	Completed in 11 sec
+Interpolated data written out to piece6.hst
+Performing interpolation on Pot-prototype.prt
+please wait...	Completed in 0 sec
+Interpolated data written out to Pot-prototype.prt
+compare hist auto
+tolerance 10%
+Start time: 2008:3:10:17:33:21
+The data folder contains 35 files
+3 are prototype files
+5 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 9 sec
+Starting comparison of  Bowl-prototype.prt and piece1.hst
+completed in 2 sec
+Correlation: Best =  Worst = 
+Data from piece2.hst prepared in 14 sec
+Starting comparison of  Bowl-prototype.prt and piece2.hst
+completed in 2 sec
+Correlation: Best =  Worst = 
+Data from piece3.hst prepared in 18 sec
+Starting comparison of  Bowl-prototype.prt and piece3.hst
+completed in 2 sec
+Correlation: Best =  Worst = 
+Data from piece4.hst prepared in 16 sec
+Starting comparison of  Bowl-prototype.prt and piece4.hst
+completed in 2 sec
+Correlation: Best =  Worst = 
+Data from piece6.hst prepared in 28 sec
+Starting comparison of  Bowl-prototype.prt and piece6.hst
+completed in 2 sec
+Correlation: Best =  Worst = 
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 9 sec
+Starting comparison of  Mug-prototype.prt and piece1.hst
+completed in 2 sec
+Correlation: Best = 0.462 Worst = 0.310
+Data from piece2.hst prepared in 24 sec
+Starting comparison of  Mug-prototype.prt and piece2.hst
+completed in 2 sec
+Correlation: Best = 0.812 Worst = 0.771
+Data from piece3.hst prepared in 22 sec
+Starting comparison of  Mug-prototype.prt and piece3.hst
+completed in 2 sec
+Correlation: Best = 0.754 Worst = 0.207
+Data from piece4.hst prepared in 18 sec
+Starting comparison of  Mug-prototype.prt and piece4.hst
+completed in 2 sec
+Correlation: Best = 0.438 Worst = 
+Data from piece6.hst prepared in 31 sec
+Starting comparison of  Mug-prototype.prt and piece6.hst
+completed in 2 sec
+Correlation: Best = 0.766 Worst = 0.157
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 9 sec
+Starting comparison of  Pot-prototype.prt and piece1.hst
+completed in 3 sec
+Correlation: Best = 0.988 Worst = 0.059
+Data from piece2.hst prepared in 30 sec
+Starting comparison of  Pot-prototype.prt and piece2.hst
+completed in 3 sec
+Correlation: Best = 0.991 Worst = 0.205
+Data from piece3.hst prepared in 19 sec
+Starting comparison of  Pot-prototype.prt and piece3.hst
+completed in 3 sec
+Correlation: Best = 0.989 Worst = 0.131
+Data from piece4.hst prepared in 17 sec
+Starting comparison of  Pot-prototype.prt and piece4.hst
+completed in 1 sec
+Correlation: Best = 0.563 Worst = 0.192
+Data from piece6.hst prepared in 28 sec
+Starting comparison of  Pot-prototype.prt and piece6.hst
+completed in 3 sec
+Correlation: Best = 0.918 Worst = 0.039
+8 files processed in 0:5:26
+
+The results are in results1.txt
+Run Mode: 0 0 1 1
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 0
+Rotation resolution = 2.5°
+Run Mode: 0 0 1 1
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 0
+Rotation resolution = 2.5°
+Performing histogram interpolation
+Start time: 2008:3:10:17:41:1
+Performing interpolation on Bowl-prototype.prt
+please wait...	Completed in 0 sec
+Interpolated data written out to Bowl-prototype.prt
+Performing interpolation on Mug-prototype.prt
+please wait...	Completed in 0 sec
+Interpolated data written out to Mug-prototype.prt
+Performing interpolation on piece1.hst
+please wait...	Completed in 7 sec
+Interpolated data written out to piece1.hst
+Performing interpolation on piece2.hst
+please wait...	Completed in 23 sec
+Interpolated data written out to piece2.hst
+Performing interpolation on piece3.hst
+please wait...	Completed in 23 sec
+Interpolated data written out to piece3.hst
+Performing interpolation on piece4.hst
+please wait...	Completed in 13 sec
+Interpolated data written out to piece4.hst
+Performing interpolation on piece6.hst
+please wait...	Completed in 25 sec
+Interpolated data written out to piece6.hst
+Performing interpolation on Pot-prototype.prt
+please wait...	Completed in 0 sec
+Interpolated data written out to Pot-prototype.prt
+compare hist auto
+tolerance 0%
+Start time: 2008:3:10:17:42:32
+The data folder contains 36 files
+3 are prototype files
+5 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 18 sec
+Starting comparison of Bowl-prototype.prt and piece1.hst
+completed in 145 sec
+Correlation: Best = 0.809 Worst = -4.125
+Data from piece2.hst prepared in 14 sec
+Starting comparison of Bowl-prototype.prt and piece2.hst
+completed in 144 sec
+Correlation: Best = 0.814 Worst = -4.124
+Data from piece3.hst prepared in 11 sec
+Starting comparison of Bowl-prototype.prt and piece3.hst
+completed in 82 sec
+Correlation: Best = 0.879 Worst = -4.349
+Data from piece4.hst prepared in 12 sec
+Starting comparison of Bowl-prototype.prt and piece4.hst
+completed in 37 sec
+Correlation: Best = 0.804 Worst = -3.957
+Data from piece6.hst prepared in 16 sec
+Starting comparison of Bowl-prototype.prt and piece6.hst
+completed in 139 sec
+Correlation: Best = 0.999 Worst = -5.138
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 15 sec
+Starting comparison of Mug-prototype.prt and piece1.hst
+completed in 130 sec
+Correlation: Best = 0.882 Worst = -4.671
+Data from piece2.hst prepared in 18 sec
+Starting comparison of Mug-prototype.prt and piece2.hst
+completed in 130 sec
+Correlation: Best = 0.895 Worst = -4.670
+Data from piece3.hst prepared in 10 sec
+Starting comparison of Mug-prototype.prt and piece3.hst
+completed in 74 sec
+Correlation: Best = 0.974 Worst = -4.860
+Data from piece4.hst prepared in 12 sec
+Starting comparison of Mug-prototype.prt and piece4.hst
+completed in 34 sec
+Correlation: Best = 0.885 Worst = -4.507
+Data from piece6.hst prepared in 24 sec
+Starting comparison of Mug-prototype.prt and piece6.hst
+completed in 125 sec
+Correlation: Best = 0.999 Worst = -5.795
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 16 sec
+Starting comparison of Pot-prototype.prt and piece1.hst
+completed in 114 sec
+Correlation: Best = 1.000 Worst = -5.441
+Data from piece2.hst prepared in 17 sec
+Starting comparison of Pot-prototype.prt and piece2.hst
+completed in 114 sec
+Correlation: Best = 0.995 Worst = -5.440
+Data from piece3.hst prepared in 10 sec
+Starting comparison of Pot-prototype.prt and piece3.hst
+completed in 65 sec
+Correlation: Best = 0.973 Worst = -5.641
+Data from piece4.hst prepared in 12 sec
+Starting comparison of Pot-prototype.prt and piece4.hst
+completed in 29 sec
+Correlation: Best = 0.926 Worst = -5.287
+Data from piece6.hst prepared in 24 sec
+Starting comparison of Pot-prototype.prt and piece6.hst
+completed in 110 sec
+Correlation: Best = 0.999 Worst = -6.722
+8 files processed in 0:28:22
+
+The results are in results1.txt
+Run Mode: 0 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 2
+Curvature Bias = 0
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 0
+Rotation resolution = 2.5°
+Run Mode: 0 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 2
+Curvature Bias = 1
+Tolerance = 0.1
+Remove negative fits = 0
+Worst Run Weighting = 0
+Rotation resolution = 2.5°
+compare hist auto
+tolerance 10%
+Start time: 2008:3:10:18:28:9
+The data folder contains 36 files
+3 are prototype files
+5 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 5 sec
+Starting comparison of Bowl-prototype.prt and piece1.hst
+completed in 2 sec
+Correlation: Best = 0.639 Worst = 0.116
+Data from piece2.hst prepared in 13 sec
+Starting comparison of Bowl-prototype.prt and piece2.hst
+completed in 2 sec
+Correlation: Best = 0.638 Worst = 0.116
+Data from piece3.hst prepared in 17 sec
+Starting comparison of Bowl-prototype.prt and piece3.hst
+completed in 1 sec
+Correlation: Best = 0.781 Worst = 0.060
+Data from piece4.hst prepared in 16 sec
+Starting comparison of Bowl-prototype.prt and piece4.hst
+completed in 2 sec
+Correlation: Best = 0.510 Worst = 0.321
+Data from piece6.hst prepared in 24 sec
+Starting comparison of Bowl-prototype.prt and piece6.hst
+completed in 2 sec
+Correlation: Best = 0.956 Worst = -0.000
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 11 sec
+Starting comparison of Mug-prototype.prt and piece1.hst
+completed in 2 sec
+Correlation: Best = 0.826 Worst = 0.359
+Data from piece2.hst prepared in 21 sec
+Starting comparison of Mug-prototype.prt and piece2.hst
+completed in 2 sec
+Correlation: Best = 0.844 Worst = 0.331
+Data from piece3.hst prepared in 15 sec
+Starting comparison of Mug-prototype.prt and piece3.hst
+completed in 1 sec
+Correlation: Best = 0.829 Worst = 0.051
+Data from piece4.hst prepared in 17 sec
+Starting comparison of Mug-prototype.prt and piece4.hst
+completed in 2 sec
+Correlation: Best =  Worst = 
+Data from piece6.hst prepared in 31 sec
+Starting comparison of Mug-prototype.prt and piece6.hst
+completed in 1 sec
+Correlation: Best = 0.781 Worst = 0.146
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 10 sec
+Starting comparison of Pot-prototype.prt and piece1.hst
+completed in 514 sec
+Correlation: Best = 0.997 Worst = -0.159
+Data from piece2.hst prepared in 26 sec
+Starting comparison of Pot-prototype.prt and piece2.hst
+completed in 513 sec
+Correlation: Best = 0.997 Worst = -0.159
+Data from piece3.hst prepared in 14 sec
+Starting comparison of Pot-prototype.prt and piece3.hst
+completed in 266 sec
+Correlation: Best = 0.856 Worst = -0.132
+Data from piece4.hst prepared in 16 sec
+Starting comparison of Pot-prototype.prt and piece4.hst
+completed in 101 sec
+Correlation: Best = 0.854 Worst = -0.085
+Data from piece6.hst prepared in 24 sec
+Starting comparison of Pot-prototype.prt and piece6.hst
+completed in 491 sec
+Correlation: Best = 0.856 Worst = -0.308
+8 files processed in 0:36:3
+
+The results are in results1.txt
+Run Mode: 0 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 2
+Curvature Bias = 2
+Tolerance = 0.1
+Remove negative fits = 0
+Worst Run Weighting = 0
+Rotation resolution = 2.5°
+compare hist auto
+tolerance 10%
+Start time: 2008:3:10:19:9:37
+The data folder contains 36 files
+3 are prototype files
+5 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 5 sec
+Starting comparison of Bowl-prototype.prt and piece1.hst
+completed in 2 sec
+Correlation: Best = 0.661 Worst = 0.305
+Data from piece2.hst prepared in 14 sec
+Starting comparison of Bowl-prototype.prt and piece2.hst
+completed in 2 sec
+Correlation: Best = 0.647 Worst = 0.308
+Data from piece3.hst prepared in 19 sec
+Starting comparison of Bowl-prototype.prt and piece3.hst
+completed in 2 sec
+Correlation: Best = 0.786 Worst = 0.255
+Data from piece4.hst prepared in 16 sec
+Starting comparison of Bowl-prototype.prt and piece4.hst
+completed in 1 sec
+Correlation: Best = 0.488 Worst = 0.350
+Data from piece6.hst prepared in 26 sec
+Starting comparison of Bowl-prototype.prt and piece6.hst
+completed in 3 sec
+Correlation: Best = 0.951 Worst = 0.213
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 11 sec
+Starting comparison of Mug-prototype.prt and piece1.hst
+completed in 2 sec
+Correlation: Best = 0.856 Worst = 0.510
+Data from piece2.hst prepared in 21 sec
+Starting comparison of Mug-prototype.prt and piece2.hst
+completed in 2 sec
+Correlation: Best = 0.883 Worst = 0.331
+Data from piece3.hst prepared in 15 sec
+Starting comparison of Mug-prototype.prt and piece3.hst
+completed in 1 sec
+Correlation: Best = 0.931 Worst = 0.208
+Data from piece4.hst prepared in 17 sec
+Starting comparison of Mug-prototype.prt and piece4.hst
+completed in 2 sec
+Correlation: Best =  Worst = 
+Data from piece6.hst prepared in 30 sec
+Starting comparison of Mug-prototype.prt and piece6.hst
+completed in 2 sec
+Correlation: Best = 0.910 Worst = 0.279
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 11 sec
+Starting comparison of Pot-prototype.prt and piece1.hst
+completed in 514 sec
+Correlation: Best = 1.000 Worst = 0.058
+Data from piece2.hst prepared in 26 sec
+Starting comparison of Pot-prototype.prt and piece2.hst
+completed in 514 sec
+Correlation: Best = 1.000 Worst = 0.058
+Data from piece3.hst prepared in 17 sec
+Starting comparison of Pot-prototype.prt and piece3.hst
+completed in 266 sec
+Correlation: Best = 0.992 Worst = 0.122
+Data from piece4.hst prepared in 16 sec
+Starting comparison of Pot-prototype.prt and piece4.hst
+completed in 101 sec
+Correlation: Best = 0.991 Worst = 0.153
+Data from piece6.hst prepared in 22 sec
+Starting comparison of Pot-prototype.prt and piece6.hst
+completed in 492 sec
+Correlation: Best = 0.992 Worst = -0.017
+8 files processed in 0:36:12
+
+The results are in results3.txt
+Run Mode: 0 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 1
+Curvature Bias = 1
+Tolerance = 0.2
+Remove negative fits = 0
+Worst Run Weighting = 0.5
+Rotation resolution = 2.5°
+Run Mode: 0 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 1
+Curvature Bias = 1
+Tolerance = 0.1
+Remove negative fits = 0
+Worst Run Weighting = 0.5
+Rotation resolution = 2.5°
+compare hist auto
+tolerance 10%
+Start time: 2008:3:10:20:6:55
+The data folder contains 37 files
+3 are prototype files
+5 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 5 sec
+Starting comparison of Bowl-prototype.prt and piece1.hst
+completed in 672 sec
+Correlation: Best = 0.718 Worst = 0.003
+Data from piece2.hst prepared in 11 sec
+Starting comparison of Bowl-prototype.prt and piece2.hst
+completed in 671 sec
+Correlation: Best = 0.718 Worst = 0.003
+Data from piece3.hst prepared in 24 sec
+Starting comparison of Bowl-prototype.prt and piece3.hst
+completed in 351 sec
+Correlation: Best = 0.808 Worst = 0.085
+Data from piece4.hst prepared in 11 sec
+Starting comparison of Bowl-prototype.prt and piece4.hst
+completed in 136 sec
+Correlation: Best = 0.738 Worst = 0.117
+Data from piece6.hst prepared in 24 sec
+Starting comparison of Bowl-prototype.prt and piece6.hst
+completed in 643 sec
+Correlation: Best = 0.997 Worst = -0.107
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 16 sec
+Starting comparison of Mug-prototype.prt and piece1.hst
+completed in 609 sec
+Correlation: Best = 0.922 Worst = 0.020
+Data from piece2.hst prepared in 25 sec
+Starting comparison of Mug-prototype.prt and piece2.hst
+completed in 605 sec
+Correlation: Best = 0.922 Worst = 0.020
+Data from piece3.hst prepared in 18 sec
+Starting comparison of Mug-prototype.prt and piece3.hst
+completed in 315 sec
+Correlation: Best = 0.997 Worst = -0.001
+Data from piece4.hst prepared in 11 sec
+Starting comparison of Mug-prototype.prt and piece4.hst
+completed in 123 sec
+Correlation: Best = 0.940 Worst = 0.015
+Data from piece6.hst prepared in 28 sec
+Starting comparison of Mug-prototype.prt and piece6.hst
+completed in 578 sec
+Correlation: Best = 0.841 Worst = -0.046
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 16 sec
+Starting comparison of Pot-prototype.prt and piece1.hst
+completed in 526 sec
+Correlation: Best = 0.997 Worst = -0.177
+Data from piece2.hst prepared in 25 sec
+Starting comparison of Pot-prototype.prt and piece2.hst
+completed in 527 sec
+Correlation: Best = 0.997 Worst = -0.177
+Data from piece3.hst prepared in 19 sec
+Starting comparison of Pot-prototype.prt and piece3.hst
+completed in 274 sec
+Correlation: Best = 0.904 Worst = -0.140
+Data from piece4.hst prepared in 12 sec
+Starting comparison of Pot-prototype.prt and piece4.hst
+completed in 107 sec
+Correlation: Best = 0.903 Worst = -0.090
+Data from piece6.hst prepared in 29 sec
+Starting comparison of Pot-prototype.prt and piece6.hst
+completed in 504 sec
+Correlation: Best = 0.904 Worst = -0.336
+8 files processed in 1:55:15
+
+The results are in results4.txt
+Run Mode: 0 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 1
+Curvature Bias = -1
+Tolerance = 0.1
+Remove negative fits = 0
+Worst Run Weighting = 0.5
+Rotation resolution = 2.5°
+compare hist auto
+tolerance 10%
+Start time: 2008:3:11:0:16:14
+The data folder contains 38 files
+3 are prototype files
+5 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 8 sec
+Starting comparison of Bowl-prototype.prt and piece1.hst
+completed in 1301 sec
+Correlation: Best = 0.849 Worst = -434.673
+Data from piece2.hst prepared in 21 sec
+Starting comparison of Bowl-prototype.prt and piece2.hst
+completed in 1085 sec
+Correlation: Best = 0.849 Worst = -434.673
+Data from piece3.hst prepared in 53 sec
+Starting comparison of Bowl-prototype.prt and piece3.hst
+completed in 656 sec
+Correlation: Best = 0.449 Worst = -461.984
+Data from piece4.hst prepared in 24 sec
+Starting comparison of Bowl-prototype.prt and piece4.hst
+completed in 262 sec
+Correlation: Best = 0.748 Worst = -440.855
+Data from piece6.hst prepared in 50 sec
+Starting comparison of Bowl-prototype.prt and piece6.hst
+completed in 989 sec
+Correlation: Best = 0.998 Worst = -515.132
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 33 sec
+Starting comparison of Mug-prototype.prt and piece1.hst
+completed in 917 sec
+Correlation: Best = 0.986 Worst = -439.568
+Data from piece2.hst prepared in 52 sec
+Starting comparison of Mug-prototype.prt and piece2.hst
+completed in 951 sec
+Correlation: Best = 0.986 Worst = -439.568
+Data from piece3.hst prepared in 35 sec
+Starting comparison of Mug-prototype.prt and piece3.hst
+completed in 592 sec
+Correlation: Best = 0.999 Worst = -467.339
+Data from piece4.hst prepared in 25 sec
+Starting comparison of Mug-prototype.prt and piece4.hst
+completed in 239 sec
+Correlation: Best = 0.911 Worst = -446.111
+Data from piece6.hst prepared in 63 sec
+Starting comparison of Mug-prototype.prt and piece6.hst
+completed in 952 sec
+Correlation: Best = 0.970 Worst = -521.847
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 35 sec
+Starting comparison of Pot-prototype.prt and piece1.hst
+completed in 884 sec
+Correlation: Best = 0.995 Worst = -446.923
+Data from piece2.hst prepared in 55 sec
+Starting comparison of Pot-prototype.prt and piece2.hst
+completed in 908 sec
+Correlation: Best = 0.995 Worst = -446.923
+Data from piece3.hst prepared in 55 sec
+Starting comparison of Pot-prototype.prt and piece3.hst
+completed in 690 sec
+Correlation: Best = 0.645 Worst = -475.366
+Data from piece4.hst prepared in 27 sec
+Starting comparison of Pot-prototype.prt and piece4.hst
+completed in 181 sec
+Correlation: Best = 0.768 Worst = -453.173
+Data from piece6.hst prepared in 67 sec
+Starting comparison of Pot-prototype.prt and piece6.hst
+completed in 948 sec
+Correlation: Best = 0.331 Worst = -531.059
+8 files processed in 3:22:40
+
+The results are in results5.txt
+Run Mode: 0 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 1
+Curvature Bias = -1
+Tolerance = 0.1
+Remove negative fits = 0
+Worst Run Weighting = 0
+Best fit averaging = 0.100%
+Run Mode: 0 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 1
+Curvature Bias = -1
+Tolerance = 0.1
+Remove negative fits = 0
+Worst Run Weighting = 0
+Best fit averaging = 0.10%
+Run Mode: 0 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 1
+Curvature Bias = -1
+Tolerance = 0.1
+Remove negative fits = 0
+Worst Run Weighting = 0
+Best fit averaging = 0.10%
+Rotation resolution = 2.5°
+Run Mode: 0 0 0 1
+Offset Switch = 1
+Curvature Ceiling = 1
+Curvature Bias = -1
+Tolerance = 0.1
+Remove negative fits = 0
+Worst Run Weighting = 0
+Best fit averaging = 0.10%
+Rotation resolution = 2.5°
+Run Mode: 0 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 1
+Curvature Bias = 0
+Tolerance = 0.01
+Remove negative fits = 0
+Worst Run Weighting = 0
+Best fit averaging = 0.10%
+Rotation resolution = 2.5°
+Run Mode: 0 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 1
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 0
+Best fit averaging = 10.00%
+Rotation resolution = 2.5°
+compare hist auto
+tolerance 0%
+Start time: 2008:3:11:17:5:33
+The data folder contains 39 files
+4 are prototype files
+6 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 8 sec
+Starting comparison of Bowl-prototype.prt and piece1.hst
+completed in 201 sec
+Correlation: Best = 0.607098452883264 Worst = -0.006
+Data from piece2.hst prepared in 14 sec
+Starting comparison of Bowl-prototype.prt and piece2.hst
+completed in 179 sec
+Correlation: Best = 0.603386347642507 Worst = -0.008
+Data from piece3.hst prepared in 29 sec
+Starting comparison of Bowl-prototype.prt and piece3.hst
+completed in 97 sec
+Correlation: Best = 0.758999999999998 Worst = 0.099
+Data from piece4.hst prepared in 12 sec
+Starting comparison of Bowl-prototype.prt and piece4.hst
+completed in 44 sec
+Correlation: Best = 0.537904225352114 Worst = 0.137
+Data from piece5.hst prepared in 1 sec
+Starting comparison of Bowl-prototype.prt and piece5.hst
+completed in 55 sec
+Correlation: Best = 0.409000000000001 Worst = 0.282
+Data from piece6.hst prepared in 33 sec
+Starting comparison of Bowl-prototype.prt and piece6.hst
+completed in 158 sec
+Correlation: Best = 0.797952767527677 Worst = -0.142
+Opening Cup2-prototype.prt please wait...
+Data from piece1.hst prepared in 19 sec
+Starting comparison of Cup2-prototype.prt and piece1.hst
+completed in 49 sec
+Correlation: Best = 0.746220815752462 Worst = -0.866
+Data from piece2.hst prepared in 29 sec
+Starting comparison of Cup2-prototype.prt and piece2.hst
+completed in 54 sec
+Correlation: Best = 0.746180154820551 Worst = -0.866
+Data from piece3.hst prepared in 22 sec
+Starting comparison of Cup2-prototype.prt and piece3.hst
+completed in 34 sec
+Correlation: Best = 0.738958594730239 Worst = -0.996
+Data from piece4.hst prepared in 14 sec
+Starting comparison of Cup2-prototype.prt and piece4.hst
+completed in 16 sec
+Correlation: Best = 0.745504225352114 Worst = -0.896
+Data from piece5.hst prepared in 1 sec
+Starting comparison of Cup2-prototype.prt and piece5.hst
+completed in 19 sec
+Correlation: Best = 0.882221030042918 Worst = -0.334
+Data from piece6.hst prepared in 34 sec
+Starting comparison of Cup2-prototype.prt and piece6.hst
+completed in 47 sec
+Correlation: Best = 0.733275276752769 Worst = -1.269
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 19 sec
+Starting comparison of Mug-prototype.prt and piece1.hst
+completed in 153 sec
+Correlation: Best = 0.7160935302391 Worst = -0.093
+Data from piece2.hst prepared in 28 sec
+Starting comparison of Mug-prototype.prt and piece2.hst
+completed in 153 sec
+Correlation: Best = 0.711002111189303 Worst = -0.093
+Data from piece3.hst prepared in 19 sec
+Starting comparison of Mug-prototype.prt and piece3.hst
+completed in 88 sec
+Correlation: Best = 0.894592220828104 Worst = -0.002
+Data from piece4.hst prepared in 14 sec
+Starting comparison of Mug-prototype.prt and piece4.hst
+completed in 47 sec
+Correlation: Best = 0.582943661971831 Worst = 0.043
+Data from piece5.hst prepared in 2 sec
+Starting comparison of Mug-prototype.prt and piece5.hst
+completed in 61 sec
+Correlation: Best = 0.397195278969954 Worst = 0.272
+Data from piece6.hst prepared in 37 sec
+Starting comparison of Mug-prototype.prt and piece6.hst
+completed in 179 sec
+Correlation: Best = 0.834984501845017 Worst = -0.246
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 24 sec
+Starting comparison of Pot-prototype.prt and piece1.hst
+completed in 162 sec
+Correlation: Best = 0.862374120956399 Worst = -0.213
+Data from piece2.hst prepared in 35 sec
+Starting comparison of Pot-prototype.prt and piece2.hst
+completed in 157 sec
+Correlation: Best = 0.858320197044335 Worst = -0.213
+Data from piece3.hst prepared in 21 sec
+Starting comparison of Pot-prototype.prt and piece3.hst
+completed in 83 sec
+Correlation: Best = 0.91121079046424 Worst = -0.154
+Data from piece4.hst prepared in 14 sec
+Starting comparison of Pot-prototype.prt and piece4.hst
+completed in 38 sec
+Correlation: Best = 0.643822535211267 Worst = -0.099
+Data from piece5.hst prepared in 1 sec
+Starting comparison of Pot-prototype.prt and piece5.hst
+completed in 48 sec
+Correlation: Best = 0.429034334763951 Worst = 0.278
+Data from piece6.hst prepared in 32 sec
+Starting comparison of Pot-prototype.prt and piece6.hst
+completed in 138 sec
+Correlation: Best = 0.808815498154982 Worst = -0.394
+10 files processed in 0:45:23
+
+The results are in results6.txt
+Run Mode: 0 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 1
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 0.5
+Best fit averaging = 10.00%
+Rotation resolution = 2.5°
+Run Mode: 0 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 1
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 0.5
+Best fit averaging = 10.00%
+Rotation resolution = 2.5°
+compare hist auto
+tolerance 0%
+Start time: 2008:3:11:18:32:59
+The data folder contains 40 files
+4 are prototype files
+6 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 7 sec
+Starting comparison of Bowl-prototype.prt and piece1.hst
+completed in 231 sec
+Correlation: Best = 0.607098452883264 Worst = -0.006
+Data from piece2.hst prepared in 19 sec
+Starting comparison of Bowl-prototype.prt and piece2.hst
+completed in 234 sec
+Correlation: Best = 0.603386347642507 Worst = -0.008
+Data from piece3.hst prepared in 41 sec
+Starting comparison of Bowl-prototype.prt and piece3.hst
+completed in 131 sec
+Correlation: Best = 0.758999999999998 Worst = 0.099
+Data from piece4.hst prepared in 19 sec
+Starting comparison of Bowl-prototype.prt and piece4.hst
+completed in 58 sec
+Correlation: Best = 0.537904225352114 Worst = 0.137
+Data from piece5.hst prepared in 2 sec
+Starting comparison of Bowl-prototype.prt and piece5.hst
+completed in 75 sec
+Correlation: Best = 0.409000000000001 Worst = 0.282
+Data from piece6.hst prepared in 47 sec
+Starting comparison of Bowl-prototype.prt and piece6.hst
+completed in 204 sec
+Correlation: Best = 0.797952767527677 Worst = -0.142
+Opening Cup2-prototype.prt please wait...
+Data from piece1.hst prepared in 24 sec
+Starting comparison of Cup2-prototype.prt and piece1.hst
+completed in 63 sec
+Correlation: Best = 0.746220815752462 Worst = -0.866
+Data from piece2.hst prepared in 36 sec
+Starting comparison of Cup2-prototype.prt and piece2.hst
+completed in 62 sec
+Correlation: Best = 0.746180154820551 Worst = -0.866
+Data from piece3.hst prepared in 26 sec
+Starting comparison of Cup2-prototype.prt and piece3.hst
+completed in 38 sec
+Correlation: Best = 0.738958594730239 Worst = -0.996
+Data from piece4.hst prepared in 15 sec
+Starting comparison of Cup2-prototype.prt and piece4.hst
+completed in 19 sec
+Correlation: Best = 0.745504225352114 Worst = -0.896
+Data from piece5.hst prepared in 1 sec
+Starting comparison of Cup2-prototype.prt and piece5.hst
+completed in 21 sec
+Correlation: Best = 0.882221030042918 Worst = -0.334
+Data from piece6.hst prepared in 39 sec
+Starting comparison of Cup2-prototype.prt and piece6.hst
+completed in 59 sec
+Correlation: Best = 0.733275276752769 Worst = -1.269
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 25 sec
+Starting comparison of Mug-prototype.prt and piece1.hst
+completed in 174 sec
+Correlation: Best = 0.7160935302391 Worst = -0.093
+Data from piece2.hst prepared in 35 sec
+Starting comparison of Mug-prototype.prt and piece2.hst
+completed in 189 sec
+Correlation: Best = 0.711002111189303 Worst = -0.093
+Data from piece3.hst prepared in 23 sec
+Starting comparison of Mug-prototype.prt and piece3.hst
+completed in 96 sec
+Correlation: Best = 0.894592220828104 Worst = -0.002
+Data from piece4.hst prepared in 15 sec
+Starting comparison of Mug-prototype.prt and piece4.hst
+completed in 42 sec
+Correlation: Best = 0.582943661971831 Worst = 0.043
+Data from piece5.hst prepared in 1 sec
+Starting comparison of Mug-prototype.prt and piece5.hst
+completed in 47 sec
+Correlation: Best = 0.397195278969954 Worst = 0.272
+Data from piece6.hst prepared in 33 sec
+Starting comparison of Mug-prototype.prt and piece6.hst
+completed in 161 sec
+Correlation: Best = 0.834984501845017 Worst = -0.246
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 24 sec
+Starting comparison of Pot-prototype.prt and piece1.hst
+completed in 163 sec
+Correlation: Best = 0.862374120956399 Worst = -0.213
+Data from piece2.hst prepared in 37 sec
+Starting comparison of Pot-prototype.prt and piece2.hst
+completed in 172 sec
+Correlation: Best = 0.858320197044335 Worst = -0.213
+Data from piece3.hst prepared in 25 sec
+Starting comparison of Pot-prototype.prt and piece3.hst
+completed in 97 sec
+Correlation: Best = 0.91121079046424 Worst = -0.154
+Data from piece4.hst prepared in 18 sec
+Starting comparison of Pot-prototype.prt and piece4.hst
+completed in 36 sec
+Correlation: Best = 0.643822535211267 Worst = -0.099
+Data from piece5.hst prepared in 1 sec
+Starting comparison of Pot-prototype.prt and piece5.hst
+completed in 51 sec
+Correlation: Best = 0.429034334763951 Worst = 0.278
+Data from piece6.hst prepared in 41 sec
+Starting comparison of Pot-prototype.prt and piece6.hst
+completed in 164 sec
+Correlation: Best = 0.808815498154982 Worst = -0.394
+10 files processed in 0:52:22
+
+The results are in results7.txt
+Run Mode: 0 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 1
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 0.5
+Best fit averaging = 5.00%
+Rotation resolution = 2.5°
+Run Mode: 0 0 0 1
+Offset Switch = 0
+Curvature Ceiling = 1
+Curvature Bias = 1
+Tolerance = 0
+Remove negative fits = 0
+Worst Run Weighting = 0.5
+Best fit averaging = 5.00%
+Rotation resolution = 2.5°
+compare hist auto
+tolerance 0%
+Start time: 2008:3:11:19:35:50
+The data folder contains 41 files
+4 are prototype files
+6 are histogram files
+Opening Bowl-prototype.prt please wait...
+Data from piece1.hst prepared in 6 sec
+Starting comparison of Bowl-prototype.prt and piece1.hst
+completed in 184 sec
+Correlation: Best = 0.631 Worst = -0.006
+Data from piece2.hst prepared in 14 sec
+Starting comparison of Bowl-prototype.prt and piece2.hst
+completed in 188 sec
+Correlation: Best = 0.626 Worst = -0.008
+Data from piece3.hst prepared in 30 sec
+Starting comparison of Bowl-prototype.prt and piece3.hst
+completed in 108 sec
+Correlation: Best = 0.777 Worst = 0.099
+Data from piece4.hst prepared in 13 sec
+Starting comparison of Bowl-prototype.prt and piece4.hst
+completed in 49 sec
+Correlation: Best = 0.582 Worst = 0.137
+Data from piece5.hst prepared in 1 sec
+Starting comparison of Bowl-prototype.prt and piece5.hst
+completed in 61 sec
+Correlation: Best = 0.412 Worst = 0.282
+Data from piece6.hst prepared in 38 sec
+Starting comparison of Bowl-prototype.prt and piece6.hst
+completed in 172 sec
+Correlation: Best = 0.867 Worst = -0.142
+Opening Cup2-prototype.prt please wait...
+Data from piece1.hst prepared in 22 sec
+Starting comparison of Cup2-prototype.prt and piece1.hst
+completed in 54 sec
+Correlation: Best = 0.749 Worst = -0.866
+Data from piece2.hst prepared in 32 sec
+Starting comparison of Cup2-prototype.prt and piece2.hst
+completed in 54 sec
+Correlation: Best = 0.749 Worst = -0.866
+Data from piece3.hst prepared in 23 sec
+Starting comparison of Cup2-prototype.prt and piece3.hst
+completed in 30 sec
+Correlation: Best = 0.747 Worst = -0.996
+Data from piece4.hst prepared in 16 sec
+Starting comparison of Cup2-prototype.prt and piece4.hst
+completed in 15 sec
+Correlation: Best = 0.749 Worst = -0.896
+Data from piece5.hst prepared in 1 sec
+Starting comparison of Cup2-prototype.prt and piece5.hst
+completed in 17 sec
+Correlation: Best = 0.937 Worst = -0.334
+Data from piece6.hst prepared in 34 sec
+Starting comparison of Cup2-prototype.prt and piece6.hst
+completed in 52 sec
+Correlation: Best = 0.744 Worst = -1.269
+Opening Mug-prototype.prt please wait...
+Data from piece1.hst prepared in 20 sec
+Starting comparison of Mug-prototype.prt and piece1.hst
+completed in 171 sec
+Correlation: Best = 0.745 Worst = -0.093
+Data from piece2.hst prepared in 32 sec
+Starting comparison of Mug-prototype.prt and piece2.hst
+completed in 164 sec
+Correlation: Best = 0.739 Worst = -0.093
+Data from piece3.hst prepared in 22 sec
+Starting comparison of Mug-prototype.prt and piece3.hst
+completed in 97 sec
+Correlation: Best = 0.927 Worst = -0.002
+Data from piece4.hst prepared in 14 sec
+Starting comparison of Mug-prototype.prt and piece4.hst
+completed in 39 sec
+Correlation: Best = 0.652 Worst = 0.043
+Data from piece5.hst prepared in 2 sec
+Starting comparison of Mug-prototype.prt and piece5.hst
+completed in 54 sec
+Correlation: Best = 0.402 Worst = 0.272
+Data from piece6.hst prepared in 34 sec
+Starting comparison of Mug-prototype.prt and piece6.hst
+completed in 163 sec
+Correlation: Best = 0.896 Worst = -0.246
+Opening Pot-prototype.prt please wait...
+Data from piece1.hst prepared in 22 sec
+Starting comparison of Pot-prototype.prt and piece1.hst
+completed in 150 sec
+Correlation: Best = 0.913 Worst = -0.213
+Data from piece2.hst prepared in 31 sec
+Starting comparison of Pot-prototype.prt and piece2.hst
+completed in 150 sec
+Correlation: Best = 0.907 Worst = -0.213
+Data from piece3.hst prepared in 23 sec
+Starting comparison of Pot-prototype.prt and piece3.hst
+completed in 85 sec
+Correlation: Best = 0.943 Worst = -0.154
+Data from piece4.hst prepared in 14 sec
+Starting comparison of Pot-prototype.prt and piece4.hst
+completed in 40 sec
+Correlation: Best = 0.717 Worst = -0.099
+Data from piece5.hst prepared in 1 sec
+Starting comparison of Pot-prototype.prt and piece5.hst
+completed in 49 sec
+Correlation: Best = 0.438 Worst = 0.278
+Data from piece6.hst prepared in 35 sec
+Starting comparison of Pot-prototype.prt and piece6.hst
+completed in 144 sec
+Correlation: Best = 0.879 Worst = -0.394
+10 files processed in 0:46:12
+
+The results are in results8.txt

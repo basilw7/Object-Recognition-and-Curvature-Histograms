@@ -1,0 +1,30 @@
+piece1.hst Bowl-prototype.prt 0.607098452883264
+piece1.hst Cup2-prototype.prt 0.746220815752462
+piece1.hst Mug-prototype.prt 0.7160935302391
+piece1.hst Pot-prototype.prt 0.862374120956399
+piece2.hst Bowl-prototype.prt 0.603386347642507
+piece2.hst Cup2-prototype.prt 0.746180154820551
+piece2.hst Mug-prototype.prt 0.711002111189303
+piece2.hst Pot-prototype.prt 0.858320197044335
+piece3.hst Bowl-prototype.prt 0.758999999999998
+piece3.hst Cup2-prototype.prt 0.738958594730239
+piece3.hst Mug-prototype.prt 0.894592220828104
+piece3.hst Pot-prototype.prt 0.91121079046424
+piece4.hst Bowl-prototype.prt 0.537904225352114
+piece4.hst Cup2-prototype.prt 0.745504225352114
+piece4.hst Mug-prototype.prt 0.582943661971831
+piece4.hst Pot-prototype.prt 0.643822535211267
+piece5.hst Bowl-prototype.prt 0.409000000000001
+piece5.hst Cup2-prototype.prt 0.882221030042918
+piece5.hst Mug-prototype.prt 0.397195278969954
+piece5.hst Pot-prototype.prt 0.429034334763951
+piece6.hst Bowl-prototype.prt 0.797952767527677
+piece6.hst Cup2-prototype.prt 0.733275276752769
+piece6.hst Mug-prototype.prt 0.834984501845017
+piece6.hst Pot-prototype.prt 0.808815498154982
+piece1.hst belongs to Pot-prototype.prt confidence: 0.862374120956399
+piece2.hst belongs to Pot-prototype.prt confidence: 0.858320197044335
+piece3.hst belongs to Pot-prototype.prt confidence: 0.91121079046424
+piece4.hst belongs to Cup2-prototype.prt confidence: 0.745504225352114
+piece5.hst belongs to Cup2-prototype.prt confidence: 0.882221030042918
+piece6.hst belongs to Mug-prototype.prt confidence: 0.834984501845017

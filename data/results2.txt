@@ -1,0 +1,29 @@
+piece1.hst Bowl-prototype.prt 0.683
+piece1.hst Cup2-prototype.prt 0.41
+piece1.hst Mug-prototype.prt 0.763
+piece1.hst Pot-prototype.prt 0.802
+
+piece2.hst Bowl-prototype.prt 0.663
+piece2.hst Cup2-prototype.prt 0.407
+piece2.hst Mug-prototype.prt 0.794
+piece2.hst Pot-prototype.prt 0.788
+
+piece3.hst Bowl-prototype.prt 0.915
+piece3.hst Cup2-prototype.prt 0.285
+piece3.hst Mug-prototype.prt 0.992
+piece3.hst Pot-prototype.prt 0.846
+
+piece4.hst Bowl-prototype.prt 0.889
+piece4.hst Cup2-prototype.prt 0.38
+piece4.hst Mug-prototype.prt 0.953
+piece4.hst Pot-prototype.prt 0.896
+
+piece5.hst Bowl-prototype.prt 0.758
+piece5.hst Cup2-prototype.prt 0.665
+piece5.hst Mug-prototype.prt 0.848
+piece5.hst Pot-prototype.prt 0.914
+
+piece6.hst Bowl-prototype.prt 0.885
+piece6.hst Cup2-prototype.prt 0.03
+piece6.hst Mug-prototype.prt 0.753
+piece6.hst Pot-prototype.prt 0.602

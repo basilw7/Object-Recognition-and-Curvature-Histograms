@@ -1,0 +1,9 @@
+#  Sun Jan 16 16:54:37 2008
+
+# Object name : Hemisphere
+# 
+g
+v 1 0 0
+v 0 1 0
+v -1 0 0
+v 0 -1 0
