@@ -5,17 +5,17 @@ $overallstarttime = time();
 use Math::Trig; #In radians
 $pi = 3.141592654;
 
-@parts = (0,0,0,1);#( create prototype histogram files , create piece histogram files, perform histogram interpolation,  compare created files)
+@parts = (0,0,0,1);#( create prototype histogram files, create piece histogram files, perform histogram interpolation, compare created files)
 $rotate = ($pi/72); #sets the resolution of the rotations, default $pi/72
 use constant TOLERANCE => 0.00;#percent match before histogram sequence is prepared
 use constant OFFSET_SWITCH => 0;#turns offset on or off
-use constant CURVATURE_CEILING => 1;#limits offset search to resonable numbers 
+use constant CURVATURE_CEILING => 1;#limits offset search to reasonable numbers 
 use constant BESTFIT_AVERAGING => 20;#Averages the top 1 / (BF_A) Best fit numbers. 0 is off
 use constant WORSTFIT_AVERAGING => 0;#Averages the bottom 1  / (WF_A) Worst fit numbers. 0 is off
 use constant RESOLUTION => 10; #set the resolution of the program here. 100 is the maximum from the obj files
-use constant CURVATURE_BAIS => 1;#Sets the strength (exponent) of histogram hieght weighting
+use constant CURVATURE_BAIS => 1;#Sets the strength (exponent) of histogram height weighting
 use constant REMOVE_NEG => 0;#Removes negative numbers from the worst fits WORSTRUN_WEIGHTING should be neg if set
-use constant WORSTRUN_WEIGHTING => 0.5;#Sets the weight of the worst run calulated to confidence
+use constant WORSTRUN_WEIGHTING => 0.5;#Sets the weight of the worst run calculated to confidence
 
 {
 open (Olog, ">>histlog.txt");
