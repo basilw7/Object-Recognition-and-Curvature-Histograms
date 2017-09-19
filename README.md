@@ -1,5 +1,5 @@
 # Description 
-This Perl script compares partial 3 dimensional pieces with 2 dimensional prototypes. Once it has completed its analysis a particular prototype is chosen and a confidence. I completed this project in 2008, and I realize that it requires some cleaning and improving. There is additional information in the Object Recognition and Curvature Histograms doc file.
+This Perl script compares partial 3 dimensional pieces with 2 dimensional prototypes. Once it has completed its analysis a particular prototype is chosen and a confidence interval given. I completed this project in 2008. There is additional information in the Object Recognition and Curvature Histograms docx file.
 
 # Install
 This script requires Perl. I used ActivePerl 5.10 Build 1001 on a windows machine, but the script should still be usable on any platform, and more current versions. Once the Perl script is downloaded everything can run from that folder. Only 3Dcompare.pl is needed. The other files can be used to understand how the script works, but are not necessary.
@@ -12,18 +12,18 @@ There are two steps in using the 3D compare script. Inside the Perl script there
 ### 2. Running script on partial 3 dimensional pieces
 
 ### 1. Creating Prototypes
-.obj to .prt 
-The prototype files (.prt) are the curvature histograms to be used in comparison. When going from .obj to histograms the file is projected onto the x-y plane. The curvature of each point will be calculated from this profile. A 3D viewer will be useful at this point to save the desired orientation. Look at profile looking at the x-y plane before saving. Use 3DCompare.pl is the prototype creation mode:
+##### .obj to .prt 
+The prototype files (.prt) are the curvature histograms to be used in comparison. When going from .obj to histograms the file is projected onto the x-y plane. The curvature of each point will be calculated from this profile. A 3D viewer will be useful at this point to save the desired orientation. Look at profile looking at the x-y plane before saving. Use 3DCompare.pl is the prototype creation mode (`@parts = (1,0,0,0)`):
 
-`3DCompare.pl prototype_object-1.obj prototype_object-1.obj ... prototype_object-n.obj`
-with: `@parts = (1,0,0,0)`
+On the command run the script with all the prototype .obj files as arguments.
+*Example:* `3DCompare.pl prototype_object-1.obj prototype_object-2.obj ... prototype_object-n.obj`
 
 ### 2. Running 3Dcompare.pl to compare pieces and Prototype files
 There are two run modes that will be used. 3DCompare.pl mode: 0 1 1 1 and 3DCompare.pl mode: 0 0 0 1
 
 3DCompare.pl with `@parts = (0,1,1,1)`
 Should be used the first time. The script will create the curvature histograms for comparison, interpolates histogram files, and then runs comparison.
-`3DCompare.pl partial_object-1.obj partial_object-1.obj ... partial_object-n.obj`
+*Example:* `3DCompare.pl partial_object-1.obj partial_object-1.obj ... partial_object-n.obj`
 
 3DCompare.pl with `@parts = (0,0,0,1)`
 Will just perform the last step. This is useful when fine tuning parameters. They can be edited in Perl script. Look near the top for:
